@@ -1,0 +1,31 @@
+{
+  "description": "Observed local dependency metadata during release preparation; not a claim of rerunning historical GPU evaluations or a full transitive lock",
+  "policy": {
+    "python": "3.11",
+    "jax": "0.5.3",
+    "jaxlib": "0.5.3",
+    "flax": "0.10.2",
+    "numpy": "1.26.4",
+    "torch": "2.7.1",
+    "transformers": "4.53.2"
+  },
+  "simulator": {
+    "python": "3.8",
+    "numpy": "1.22.4",
+    "robosuite": "1.4.1",
+    "mujoco": "3.2.3",
+    "torch": "1.11.0+cu113",
+    "imageio": "2.35.1",
+    "websockets": "13.1"
+  },
+  "critic": {
+    "python": "3.10.12",
+    "numpy": "1.26.4",
+    "torch": "2.6.0",
+    "torchvision": "0.21.0",
+    "transformers": "4.51.3",
+    "ms-swift": "3.3.0",
+    "peft": "0.15.2",
+    "flash-attn": "2.7.4.post1"
+  }
+}

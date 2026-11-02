@@ -1,0 +1,420 @@
+[robosuite WARNING] No private macro file found! (macros.py:53)
+[robosuite WARNING] It is recommended to use a private macro file (macros.py:54)
+[robosuite WARNING] To setup, run: python <EXPERIMENT_ROOT>/openpi/examples/libero/.venv/lib/python3.8/site-packages/robosuite/scripts/setup_macros.py (macros.py:55)
+[info] using task orders [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+INFO:root:Task suite: libero_10
+INFO:root:Waiting for server at ws://127.0.0.1:21058...
+
+  0%|          | 0/1 [00:00<?, ?it/s]<EXPERIMENT_ROOT>/openpi/examples/libero/.venv/lib/python3.8/site-packages/numba/np/arraymath.py:3845: DeprecationWarning: `np.MachAr` is deprecated (NumPy 1.22).
+  @overload(np.MachAr)
+
+
+  0%|          | 0/50 [00:00<?, ?it/s]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 1
+INFO:root:# successes: 1 (100.0%)
+
+
+  2%|▏         | 1/50 [00:37<30:43, 37.61s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 2...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 2
+INFO:root:# successes: 2 (100.0%)
+
+
+  4%|▍         | 2/50 [01:14<29:58, 37.48s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 3...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 3
+INFO:root:# successes: 3 (100.0%)
+
+
+  6%|▌         | 3/50 [01:51<28:50, 36.82s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 4...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 4
+INFO:root:# successes: 4 (100.0%)
+
+
+  8%|▊         | 4/50 [02:29<28:42, 37.45s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 5...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 5
+INFO:root:# successes: 5 (100.0%)
+
+
+ 10%|█         | 5/50 [03:10<29:02, 38.73s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 6...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 6
+INFO:root:# successes: 6 (100.0%)
+
+
+ 12%|█▏        | 6/50 [03:41<26:26, 36.05s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 7...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 7
+INFO:root:# successes: 7 (100.0%)
+
+
+ 14%|█▍        | 7/50 [04:20<26:28, 36.95s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 8...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 8
+INFO:root:# successes: 8 (100.0%)
+
+
+ 16%|█▌        | 8/50 [04:58<26:06, 37.29s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 9...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 9
+INFO:root:# successes: 9 (100.0%)
+
+
+ 18%|█▊        | 9/50 [05:38<26:05, 38.18s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 10...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 10
+INFO:root:# successes: 10 (100.0%)
+
+
+ 20%|██        | 10/50 [06:16<25:23, 38.08s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 11...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 11
+INFO:root:# successes: 11 (100.0%)
+
+
+ 22%|██▏       | 11/50 [06:59<25:47, 39.67s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 12...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 12
+INFO:root:# successes: 12 (100.0%)
+
+
+ 24%|██▍       | 12/50 [07:36<24:33, 38.79s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 13...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 13
+INFO:root:# successes: 13 (100.0%)
+
+
+ 26%|██▌       | 13/50 [08:12<23:29, 38.09s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 14...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 14
+INFO:root:# successes: 14 (100.0%)
+
+
+ 28%|██▊       | 14/50 [08:46<22:05, 36.82s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 15...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 15
+INFO:root:# successes: 15 (100.0%)
+
+
+ 30%|███       | 15/50 [09:24<21:39, 37.14s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 16...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 16
+INFO:root:# successes: 16 (100.0%)
+
+
+ 32%|███▏      | 16/50 [10:02<21:12, 37.41s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 17...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 17
+INFO:root:# successes: 17 (100.0%)
+
+
+ 34%|███▍      | 17/50 [10:39<20:26, 37.17s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 18...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 18
+INFO:root:# successes: 18 (100.0%)
+
+
+ 36%|███▌      | 18/50 [11:17<20:05, 37.67s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 19...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 19
+INFO:root:# successes: 19 (100.0%)
+
+
+ 38%|███▊      | 19/50 [11:52<19:00, 36.80s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 20...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 20
+INFO:root:# successes: 20 (100.0%)
+
+
+ 40%|████      | 20/50 [12:29<18:26, 36.89s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 21...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 21
+INFO:root:# successes: 21 (100.0%)
+
+
+ 42%|████▏     | 21/50 [13:06<17:52, 36.97s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 22...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 22
+INFO:root:# successes: 22 (100.0%)
+
+
+ 44%|████▍     | 22/50 [13:43<17:11, 36.85s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 23...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 23
+INFO:root:# successes: 23 (100.0%)
+
+
+ 46%|████▌     | 23/50 [14:18<16:17, 36.20s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 24...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 24
+INFO:root:# successes: 24 (100.0%)
+
+
+ 48%|████▊     | 24/50 [14:56<15:57, 36.82s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 25...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 25
+INFO:root:# successes: 25 (100.0%)
+
+
+ 50%|█████     | 25/50 [15:31<15:08, 36.35s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 26...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 26
+INFO:root:# successes: 26 (100.0%)
+
+
+ 52%|█████▏    | 26/50 [16:09<14:45, 36.88s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 27...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 27
+INFO:root:# successes: 27 (100.0%)
+
+
+ 54%|█████▍    | 27/50 [16:47<14:13, 37.11s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 28...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 28
+INFO:root:# successes: 28 (100.0%)
+
+
+ 56%|█████▌    | 28/50 [17:24<13:32, 36.95s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 29...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 29
+INFO:root:# successes: 29 (100.0%)
+
+
+ 58%|█████▊    | 29/50 [17:59<12:48, 36.61s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 30...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 30
+INFO:root:# successes: 30 (100.0%)
+
+
+ 60%|██████    | 30/50 [18:36<12:11, 36.60s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 31...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 31
+INFO:root:# successes: 31 (100.0%)
+
+
+ 62%|██████▏   | 31/50 [19:11<11:25, 36.08s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 32...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 32
+INFO:root:# successes: 32 (100.0%)
+
+
+ 64%|██████▍   | 32/50 [19:46<10:42, 35.67s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 33...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 33
+INFO:root:# successes: 33 (100.0%)
+
+
+ 66%|██████▌   | 33/50 [20:24<10:21, 36.56s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 34...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 34
+INFO:root:# successes: 34 (100.0%)
+
+
+ 68%|██████▊   | 34/50 [21:06<10:08, 38.03s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 35...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 35
+INFO:root:# successes: 35 (100.0%)
+
+
+ 70%|███████   | 35/50 [21:42<09:23, 37.56s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 36...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 36
+INFO:root:# successes: 36 (100.0%)
+
+
+ 72%|███████▏  | 36/50 [22:22<08:54, 38.14s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 37...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 37
+INFO:root:# successes: 37 (100.0%)
+
+
+ 74%|███████▍  | 37/50 [22:56<08:01, 37.07s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 38...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 38
+INFO:root:# successes: 38 (100.0%)
+
+
+ 76%|███████▌  | 38/50 [23:30<07:11, 36.00s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 39...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 39
+INFO:root:# successes: 39 (100.0%)
+
+
+ 78%|███████▊  | 39/50 [24:04<06:31, 35.57s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 40...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 40
+INFO:root:# successes: 40 (100.0%)
+
+
+ 80%|████████  | 40/50 [24:44<06:09, 36.98s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 41...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 41
+INFO:root:# successes: 41 (100.0%)
+
+
+ 82%|████████▏ | 41/50 [25:18<05:24, 36.08s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 42...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 42
+INFO:root:# successes: 42 (100.0%)
+
+
+ 84%|████████▍ | 42/50 [25:55<04:48, 36.09s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 43...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 43
+INFO:root:# successes: 43 (100.0%)
+
+
+ 86%|████████▌ | 43/50 [26:29<04:08, 35.48s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 44...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 44
+INFO:root:# successes: 44 (100.0%)
+
+
+ 88%|████████▊ | 44/50 [27:05<03:34, 35.70s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 45...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 45
+INFO:root:# successes: 45 (100.0%)
+
+
+ 90%|█████████ | 45/50 [27:40<02:58, 35.66s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 46...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 46
+INFO:root:# successes: 46 (100.0%)
+
+
+ 92%|█████████▏| 46/50 [28:17<02:23, 35.89s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 47...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 47
+INFO:root:# successes: 47 (100.0%)
+
+
+ 94%|█████████▍| 47/50 [28:46<01:41, 33.88s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 48...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 48
+INFO:root:# successes: 48 (100.0%)
+
+
+ 96%|█████████▌| 48/50 [29:22<01:08, 34.45s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 49...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 49
+INFO:root:# successes: 49 (100.0%)
+
+
+ 98%|█████████▊| 49/50 [29:59<00:35, 35.40s/it]INFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 50...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 50
+INFO:root:# successes: 50 (100.0%)
+
+
+100%|██████████| 50/50 [30:36<00:00, 35.66s/it]
+100%|██████████| 50/50 [30:36<00:00, 36.72s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+
+100%|██████████| 1/1 [30:38<00:00, 1838.92s/it]
+100%|██████████| 1/1 [30:38<00:00, 1838.92s/it]
+INFO:root:Total success rate: 1.0
+INFO:root:Total episodes: 50

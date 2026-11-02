@@ -1,0 +1,31 @@
+# Official source trees are included and must remain trackable.
+
+# Local environments, weights, caches and new runtime outputs.
+**/.venv*/
+/experiments/vlac/env/
+**/__pycache__/
+*.py[cod]
+.env
+.env.*
+**/cache/
+**/checkpoints/
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.npz
+*.mp4
+*.zip
+/experiments/tmp/
+/experiments/resources/cache/
+/experiments/resources/libero_config/
+/experiments/runs/*
+!/experiments/runs/pi05_baseline/
+!/experiments/runs/pi05_memory_dtw/
+/experiments/logs/*
+!/experiments/logs/pi05_baseline/
+!/experiments/logs/pi05_memory_dtw/
+/experiments/vlac/runs/*
+!/experiments/vlac/runs/pi05_memory_dtw_vlac/
+/experiments/vlac/logs/*
+!/experiments/vlac/logs/pi05_memory_dtw_vlac/

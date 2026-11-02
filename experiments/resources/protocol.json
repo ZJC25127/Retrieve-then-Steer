@@ -1,0 +1,28 @@
+{
+  "benchmark": "LIBERO-10",
+  "checkpoint_config": "pi05_libero",
+  "seed": 7,
+  "task_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "initial_state_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
+  "initial_state_order": "ascending within each task",
+  "image_resize": 224,
+  "environment_render_resolution": 256,
+  "policy_camera_inputs": ["main", "real_left_wrist"],
+  "initial_wait_actions": 10,
+  "max_executed_policy_actions": 520,
+  "replan_steps": 5,
+  "action_horizon": 50,
+  "action_dimensions": 7,
+  "environment_seed_reset_per_episode": true,
+  "policy_rng": "fold_in(fold_in(jax.random.key(seed), task_id), initial_state_id)",
+  "msaa": false,
+  "xla_flags": "--xla_gpu_autotune_level=0",
+  "python_hash_seed": 0,
+  "methods": {
+    "baseline": {"sampling_steps": 10, "memory": false, "vlac": false},
+    "dtw": {"sampling_steps": 8, "memory_config": "configs/memory_dtw.json", "retrieval_views": "base", "admission": "environment_success", "vlac": false},
+    "vlac": {"sampling_steps": 8, "memory_config": "configs/memory_dtw.json", "retrieval_views": "base", "admission": "critic_first_hit_complete_5_action_prefix", "reference_frames": 24, "thresholds": [95, 95, 95, 80, 95, 80, 80, 95, 99, 95]}
+  },
+  "memory_lifetime": "initially empty for each task; accumulate online across the task's 50 episodes",
+  "environment_termination": "environment success or max policy actions; critic hit never stops rollout"
+}

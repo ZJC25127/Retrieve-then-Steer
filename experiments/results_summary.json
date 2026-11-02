@@ -1,0 +1,73 @@
+{
+  "benchmark": "LIBERO-10",
+  "protocol": "historical stable protocol; task-local initially empty memory, ordered states0..49, seed7",
+  "statistics": "single-seed complete runs; not the three-seed manuscript means",
+  "runs": [
+    {
+      "method": "baseline",
+      "seed": 7,
+      "episodes": 500,
+      "successes": 463,
+      "success_rate": 0.926,
+      "per_task": [
+        48,
+        50,
+        50,
+        48,
+        46,
+        49,
+        45,
+        50,
+        27,
+        50
+      ],
+      "sampling_steps": 10,
+      "memory": false,
+      "vlac": false
+    },
+    {
+      "method": "dtw",
+      "seed": 7,
+      "episodes": 500,
+      "successes": 476,
+      "success_rate": 0.952,
+      "per_task": [
+        47,
+        50,
+        50,
+        49,
+        48,
+        49,
+        48,
+        50,
+        37,
+        48
+      ],
+      "sampling_steps": 8,
+      "memory": true,
+      "vlac": false
+    },
+    {
+      "method": "vlac",
+      "seed": 7,
+      "episodes": 500,
+      "successes": 476,
+      "success_rate": 0.952,
+      "per_task": [
+        47,
+        50,
+        50,
+        48,
+        48,
+        50,
+        50,
+        50,
+        36,
+        47
+      ],
+      "sampling_steps": 8,
+      "memory": true,
+      "vlac": true
+    }
+  ]
+}

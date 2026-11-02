@@ -1,0 +1,420 @@
+[robosuite WARNING] No private macro file found! (macros.py:53)
+[robosuite WARNING] It is recommended to use a private macro file (macros.py:54)
+[robosuite WARNING] To setup, run: python <EXPERIMENT_ROOT>/openpi/examples/libero/.venv/lib/python3.8/site-packages/robosuite/scripts/setup_macros.py (macros.py:55)
+[info] using task orders [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+INFO:root:Task suite: libero_10
+INFO:root:Waiting for server at ws://127.0.0.1:21060...
+
+  0%|          | 0/1 [00:00<?, ?it/s]<EXPERIMENT_ROOT>/openpi/examples/libero/.venv/lib/python3.8/site-packages/numba/np/arraymath.py:3845: DeprecationWarning: `np.MachAr` is deprecated (NumPy 1.22).
+  @overload(np.MachAr)
+
+
+  0%|          | 0/50 [00:00<?, ?it/s]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 1
+INFO:root:# successes: 1 (100.0%)
+
+
+  2%|▏         | 1/50 [00:40<33:04, 40.49s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 2...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 2
+INFO:root:# successes: 2 (100.0%)
+
+
+  4%|▍         | 2/50 [01:11<28:01, 35.04s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 3...
+INFO:root:Success: False
+INFO:root:# episodes completed so far: 3
+INFO:root:# successes: 2 (66.7%)
+
+
+  6%|▌         | 3/50 [02:22<40:19, 51.48s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 4...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 4
+INFO:root:# successes: 3 (75.0%)
+
+
+  8%|▊         | 4/50 [02:52<33:00, 43.04s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 5...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 5
+INFO:root:# successes: 4 (80.0%)
+
+
+ 10%|█         | 5/50 [03:34<31:47, 42.39s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 6...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 6
+INFO:root:# successes: 5 (83.3%)
+
+
+ 12%|█▏        | 6/50 [04:06<28:30, 38.87s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 7...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 7
+INFO:root:# successes: 6 (85.7%)
+
+
+ 14%|█▍        | 7/50 [04:37<26:05, 36.41s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 8...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 8
+INFO:root:# successes: 7 (87.5%)
+
+
+ 16%|█▌        | 8/50 [05:14<25:39, 36.65s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 9...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 9
+INFO:root:# successes: 8 (88.9%)
+
+
+ 18%|█▊        | 9/50 [05:48<24:23, 35.70s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 10...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 10
+INFO:root:# successes: 9 (90.0%)
+
+
+ 20%|██        | 10/50 [06:17<22:30, 33.77s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 11...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 11
+INFO:root:# successes: 10 (90.9%)
+
+
+ 22%|██▏       | 11/50 [06:49<21:31, 33.12s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 12...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 12
+INFO:root:# successes: 11 (91.7%)
+
+
+ 24%|██▍       | 12/50 [07:18<20:11, 31.89s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 13...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 13
+INFO:root:# successes: 12 (92.3%)
+
+
+ 26%|██▌       | 13/50 [07:49<19:30, 31.63s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 14...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 14
+INFO:root:# successes: 13 (92.9%)
+
+
+ 28%|██▊       | 14/50 [08:24<19:38, 32.74s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 15...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 15
+INFO:root:# successes: 14 (93.3%)
+
+
+ 30%|███       | 15/50 [08:56<18:56, 32.48s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 16...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 16
+INFO:root:# successes: 15 (93.8%)
+
+
+ 32%|███▏      | 16/50 [09:27<18:03, 31.86s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 17...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 17
+INFO:root:# successes: 16 (94.1%)
+
+
+ 34%|███▍      | 17/50 [09:59<17:32, 31.90s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 18...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 18
+INFO:root:# successes: 17 (94.4%)
+
+
+ 36%|███▌      | 18/50 [10:46<19:29, 36.56s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 19...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 19
+INFO:root:# successes: 18 (94.7%)
+
+
+ 38%|███▊      | 19/50 [11:16<17:53, 34.62s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 20...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 20
+INFO:root:# successes: 19 (95.0%)
+
+
+ 40%|████      | 20/50 [11:48<16:51, 33.73s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 21...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 21
+INFO:root:# successes: 20 (95.2%)
+
+
+ 42%|████▏     | 21/50 [12:26<17:00, 35.19s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 22...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 22
+INFO:root:# successes: 21 (95.5%)
+
+
+ 44%|████▍     | 22/50 [13:00<16:16, 34.86s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 23...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 23
+INFO:root:# successes: 22 (95.7%)
+
+
+ 46%|████▌     | 23/50 [13:31<15:03, 33.46s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 24...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 24
+INFO:root:# successes: 23 (95.8%)
+
+
+ 48%|████▊     | 24/50 [14:00<13:59, 32.30s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 25...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 25
+INFO:root:# successes: 24 (96.0%)
+
+
+ 50%|█████     | 25/50 [14:31<13:18, 31.94s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 26...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 26
+INFO:root:# successes: 25 (96.2%)
+
+
+ 52%|█████▏    | 26/50 [15:02<12:36, 31.53s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 27...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 27
+INFO:root:# successes: 26 (96.3%)
+
+
+ 54%|█████▍    | 27/50 [15:34<12:07, 31.61s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 28...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 28
+INFO:root:# successes: 27 (96.4%)
+
+
+ 56%|█████▌    | 28/50 [16:08<11:50, 32.31s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 29...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 29
+INFO:root:# successes: 28 (96.6%)
+
+
+ 58%|█████▊    | 29/50 [16:43<11:38, 33.24s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 30...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 30
+INFO:root:# successes: 29 (96.7%)
+
+
+ 60%|██████    | 30/50 [17:14<10:53, 32.69s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 31...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 31
+INFO:root:# successes: 30 (96.8%)
+
+
+ 62%|██████▏   | 31/50 [17:47<10:17, 32.50s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 32...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 32
+INFO:root:# successes: 31 (96.9%)
+
+
+ 64%|██████▍   | 32/50 [18:17<09:32, 31.82s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 33...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 33
+INFO:root:# successes: 32 (97.0%)
+
+
+ 66%|██████▌   | 33/50 [18:45<08:43, 30.78s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 34...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 34
+INFO:root:# successes: 33 (97.1%)
+
+
+ 68%|██████▊   | 34/50 [19:15<08:08, 30.53s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 35...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 35
+INFO:root:# successes: 34 (97.1%)
+
+
+ 70%|███████   | 35/50 [19:46<07:37, 30.53s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 36...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 36
+INFO:root:# successes: 35 (97.2%)
+
+
+ 72%|███████▏  | 36/50 [20:17<07:13, 30.94s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 37...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 37
+INFO:root:# successes: 36 (97.3%)
+
+
+ 74%|███████▍  | 37/50 [20:47<06:37, 30.60s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 38...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 38
+INFO:root:# successes: 37 (97.4%)
+
+
+ 76%|███████▌  | 38/50 [21:19<06:10, 30.89s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 39...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 39
+INFO:root:# successes: 38 (97.4%)
+
+
+ 78%|███████▊  | 39/50 [21:48<05:32, 30.26s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 40...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 40
+INFO:root:# successes: 39 (97.5%)
+
+
+ 80%|████████  | 40/50 [22:18<05:02, 30.26s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 41...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 41
+INFO:root:# successes: 40 (97.6%)
+
+
+ 82%|████████▏ | 41/50 [22:48<04:33, 30.35s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 42...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 42
+INFO:root:# successes: 41 (97.6%)
+
+
+ 84%|████████▍ | 42/50 [23:17<03:59, 29.89s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 43...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 43
+INFO:root:# successes: 42 (97.7%)
+
+
+ 86%|████████▌ | 43/50 [23:51<03:37, 31.07s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 44...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 44
+INFO:root:# successes: 43 (97.7%)
+
+
+ 88%|████████▊ | 44/50 [24:23<03:08, 31.33s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 45...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 45
+INFO:root:# successes: 44 (97.8%)
+
+
+ 90%|█████████ | 45/50 [24:53<02:34, 30.84s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 46...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 46
+INFO:root:# successes: 45 (97.8%)
+
+
+ 92%|█████████▏| 46/50 [25:22<02:01, 30.49s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 47...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 47
+INFO:root:# successes: 46 (97.9%)
+
+
+ 94%|█████████▍| 47/50 [25:52<01:30, 30.18s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 48...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 48
+INFO:root:# successes: 47 (97.9%)
+
+
+ 96%|█████████▌| 48/50 [26:25<01:01, 30.95s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 49...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 49
+INFO:root:# successes: 48 (98.0%)
+
+
+ 98%|█████████▊| 49/50 [26:55<00:30, 30.79s/it]INFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 50...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 50
+INFO:root:# successes: 49 (98.0%)
+
+
+100%|██████████| 50/50 [27:24<00:00, 30.36s/it]
+100%|██████████| 50/50 [27:24<00:00, 32.90s/it]
+INFO:root:Current task success rate: 0.98
+INFO:root:Current total success rate: 0.98
+
+100%|██████████| 1/1 [27:26<00:00, 1646.60s/it]
+100%|██████████| 1/1 [27:26<00:00, 1646.60s/it]
+INFO:root:Total success rate: 0.98
+INFO:root:Total episodes: 50

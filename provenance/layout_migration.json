@@ -1,0 +1,1341 @@
+{
+  "layout": "Original OpenPI/experiments/vlac relative hierarchy",
+  "scientific_bytes_unchanged": {
+    "memory_policy.py": "fd57818527f13aaacf4afe1cbafc777f67302b5f2590890994f2e47aa0d5abf2",
+    "vlac_progress.py": "393300b415b12c1336939bbd0997271eb6e1676c8d794b06181a0608a3dcc1e4"
+  },
+  "source_files": [
+    {
+      "previous_path": "configs/install_manifest.json",
+      "path": "experiments/vlac/configs/install_manifest.json"
+    },
+    {
+      "previous_path": "configs/memory_dtw.json",
+      "path": "experiments/resources/memory_configs/pi05_memory_dtw.json"
+    },
+    {
+      "previous_path": "configs/protocol.json",
+      "path": "experiments/resources/protocol.json"
+    },
+    {
+      "previous_path": "references/reference_map.json",
+      "path": "experiments/vlac/references/libero10_reference24/reference_map.json"
+    },
+    {
+      "previous_path": "results/per_task.csv",
+      "path": "experiments/per_task.csv"
+    },
+    {
+      "previous_path": "results/summary.json",
+      "path": "experiments/results_summary.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_00.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_00.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_01.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_01.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_02.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_02.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_03.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_03.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_04.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_04.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_05.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_05.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_06.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_06.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_07.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_07.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_08.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_08.json"
+    },
+    {
+      "previous_path": "configs/vlac/task_09.json",
+      "path": "experiments/vlac/configs/pi05_reference24/task_09.json"
+    },
+    {
+      "previous_path": "configs/vlac/thresholds.json",
+      "path": "experiments/vlac/configs/pi05_reference24/thresholds.json"
+    },
+    {
+      "previous_path": "references/task_00/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_00/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_00/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_01/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_01/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_02/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_02/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_03/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_03/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_04/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_04/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_05/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_05/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_06/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_06/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_07/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_07/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_08/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_08/frame_23.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_00.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_00.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_01.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_01.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_02.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_02.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_03.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_03.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_04.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_04.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_05.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_05.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_06.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_06.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_07.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_07.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_08.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_08.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_09.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_09.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_10.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_10.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_11.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_11.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_12.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_12.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_13.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_13.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_14.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_14.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_15.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_15.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_16.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_16.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_17.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_17.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_18.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_18.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_19.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_19.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_20.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_20.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_21.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_21.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_22.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_22.png"
+    },
+    {
+      "previous_path": "references/task_09/frame_23.png",
+      "path": "experiments/vlac/references/libero10_reference24/task_09/frame_23.png"
+    },
+    {
+      "previous_path": "results/baseline/eval.log",
+      "path": "experiments/logs/pi05_baseline/eval.log"
+    },
+    {
+      "previous_path": "results/baseline/outcomes.json",
+      "path": "experiments/runs/pi05_baseline/outcomes.json"
+    },
+    {
+      "previous_path": "results/baseline/result.json",
+      "path": "experiments/runs/pi05_baseline/result.json"
+    },
+    {
+      "previous_path": "results/baseline/server.log",
+      "path": "experiments/logs/pi05_baseline/server.log"
+    },
+    {
+      "previous_path": "results/dtw/outcomes.json",
+      "path": "experiments/runs/pi05_memory_dtw/outcomes.json"
+    },
+    {
+      "previous_path": "results/vlac/outcomes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/outcomes.json"
+    },
+    {
+      "previous_path": "results/dtw/task_00/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_00/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_00/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_00/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_00/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_00/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_01/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_01/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_01/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_01/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_01/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_01/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_02/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_02/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_02/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_02/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_02/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_02/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_03/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_03/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_03/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_03/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_03/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_03/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_04/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_04/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_04/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_04/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_04/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_04/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_05/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_05/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_05/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_05/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_05/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_05/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_06/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_06/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_06/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_06/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_06/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_06/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_07/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_07/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_07/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_07/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_07/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_07/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_08/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_08/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_08/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_08/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_08/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_08/server.log"
+    },
+    {
+      "previous_path": "results/dtw/task_09/eval.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_09/eval.log"
+    },
+    {
+      "previous_path": "results/dtw/task_09/result.json",
+      "path": "experiments/runs/pi05_memory_dtw/task_09/result.json"
+    },
+    {
+      "previous_path": "results/dtw/task_09/server.log",
+      "path": "experiments/logs/pi05_memory_dtw/task_09/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_00/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_00/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_00/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_00/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_00/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_00/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_00/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_00/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_01/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_01/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_01/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_01/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_01/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_01/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_01/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_01/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_02/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_02/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_02/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_02/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_02/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_02/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_02/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_02/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_03/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_03/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_03/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_03/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_03/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_03/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_03/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_03/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_04/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_04/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_04/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_04/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_04/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_04/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_04/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_04/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_05/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_05/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_05/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_05/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_05/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_05/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_05/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_05/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_06/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_06/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_06/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_06/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_06/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_06/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_06/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_06/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_07/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_07/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_07/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_07/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_07/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_07/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_07/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_07/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_08/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_08/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_08/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_08/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_08/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_08/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_08/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_08/server.log"
+    },
+    {
+      "previous_path": "results/vlac/task_09/episodes.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_09/episodes.json"
+    },
+    {
+      "previous_path": "results/vlac/task_09/eval.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_09/eval.log"
+    },
+    {
+      "previous_path": "results/vlac/task_09/result.json",
+      "path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_09/result.json"
+    },
+    {
+      "previous_path": "results/vlac/task_09/server.log",
+      "path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_09/server.log"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs
+
+The retrieval and sampling implementation builds on OpenPI by Physical Intelligence.
+OpenPI source is included under openpi/ with its Apache-2.0 license.
+
+LIBERO source and simulator assets are included under openpi/third_party/libero/.
+The 240 task-reference images originate from LIBERO-10 training demonstrations.
+Source metadata is recorded in
+experiments/vlac/references/libero10_reference24/reference_map.json.
+The upstream MIT notice is retained in licenses/LIBERO.txt.
+
+VLAC source is included under experiments/vlac/VLAC/.
+Its upstream license notice is retained in licenses/VLAC.txt.
+
+Repository revisions and file checksums are recorded in provenance/.
+Model weights and datasets remain subject to their respective provider terms.

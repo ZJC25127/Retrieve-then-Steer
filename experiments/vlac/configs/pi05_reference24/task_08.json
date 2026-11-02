@@ -1,0 +1,16 @@
+{
+  "check_interval_steps": 8,
+  "milestone_steps": 64,
+  "completion_threshold": 99.0,
+  "timeout_seconds": 120,
+  "rich": true,
+  "reference_map": "references/libero10_reference24/reference_map.json",
+  "reference_mode": "one_shot_reference24",
+  "do_sample": false,
+  "temperature": 0.0,
+  "max_tokens": 16,
+  "view": "main",
+  "step_unit": "executed_policy_actions_excluding_wait",
+  "commit_boundary": "full_5_action_replan_windows_completed_by_first_hit",
+  "reference_frames": 24
+}

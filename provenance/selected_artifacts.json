@@ -1,0 +1,2198 @@
+{
+  "export_date": "2026-11-02",
+  "scope": "Only three selected pi05 seed7 runs. No parameter search, pi0 results, trajectory NPZ, videos, checkpoints or environment files.",
+  "log_transformations": "Private absolute paths replaced with descriptive markers and ANSI escape sequences removed; score/outcome text unchanged. Source hashes are of original files.",
+  "files": [
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "005f04e05ec486351d87444feab6750a9d00176e7deead178d5e1b8d24d22cc7",
+      "release_path": "experiments/runs/pi05_baseline/result.json",
+      "release_sha256": "7e9ee366fc79083c5d8ecd341ae802df136d9f4982e00d2199ec6cc1d0de67cd"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "4646d3adad1ea632058027d16ec4e2dd1335fa8b8abf5f514cc5c70c631c7a84",
+      "release_path": "experiments/logs/pi05_baseline/eval.log",
+      "release_sha256": "223b8f9dd33f8ec264c6d41ba5e7dfbb34e4b9fa22af641b1bb77b158d4361df"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "f187e64529dca0ffc4b2d082b21dbfbd8b3096378ead3b88d9243959ef8d8ba3",
+      "release_path": "experiments/logs/pi05_baseline/server.log",
+      "release_sha256": "49835c2c48fb5aa66e57b11cdd8a0da02f87fcd07f62e7aa00e6c671fa3201f2"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "c9d578fdc9c229ca80aea01d41f96fa3987d97b6ba990a39145b691121fa3ce6",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_00/result.json",
+      "release_sha256": "3cd4afaf2a3c14b39d65e2f4f0cdde047e8e226a14ff9e7028b4f633db894dcd"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "50175f5398d286697a82d04023509135410f75e8e97868bf4ffea5a850ae8247",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_00/eval.log",
+      "release_sha256": "0921a978f2f39ee8a9f90f41617a7637efcbcbc7e4d9065cd4ca8b45a9a8c067"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "618c05ab35baee7d57b91e5a6df57e3a114306426b97d96a4d6e3ec2350f37bc",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_00/server.log",
+      "release_sha256": "0f06fa20ce0f6834986d3e5b585828b9374ecd0e4c60ba9b9fa2989ceab6bed5"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "a59bf0de8cd4737150347da3f692bf0e4a3b38fb2ce64f5f884bbbe2b0d6e489",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_01/result.json",
+      "release_sha256": "1b943ef9c74fcf442daab2e98ee94b5ffaf850b864ed43ab468d441402185ba9"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "2354236ff3cf6aa215ff53ed5d252aa1d3b8c1d095e524e0777d1494f93d338f",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_01/eval.log",
+      "release_sha256": "9633a93b10a7a1909c7a780f32a971adbe698821686a901052a897f0d7fe0599"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "cf4add897b8a694fdb86784891f3bae1c07f151e0076df6f1ef7f836fa33590a",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_01/server.log",
+      "release_sha256": "587aebcde66f29e93bf0921827c2c9a7f9d29ddc9f9068980268b298509ba193"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "0a6b8ccd632520ca516886cd055fa83b318fa1a4e8e8a93d325ad0b836099bb1",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_02/result.json",
+      "release_sha256": "df1a768def0c37b1ae2f8a79390becd9954a997eebc2943fb7c9b9489b283048"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "7fbea159f32fc25fc9c3852b701b015255b2f58fd5c268724593e79720d37f6e",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_02/eval.log",
+      "release_sha256": "ce79ea1955ef17f9523cb79860135fe79aad32a804d69f227acd4746ed00eb3a"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "6788b3117dc297d620c4e8ba51ebe4ca9c916d9d8c380a51d71d6142886da810",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_02/server.log",
+      "release_sha256": "ed315b3f49b45434bd5e69acf913aacae5c888b95b46a8df946a16e72444595d"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "d72090b41b0a5b41d29509d1404d685dc0938d284cd8d96386bfe3d30e8b53d2",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_03/result.json",
+      "release_sha256": "28158b4187c575bbdae22de8b531de3b3f748f76dfe7efbe353870fb6171d11d"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "d649f8173f7ca726638191f26184c7a2c3c12f3d4a4e7e1019cc9f2f2e919710",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_03/eval.log",
+      "release_sha256": "1505b63a5379d22d0f1a54844bc977eebdeb4d4c9d4b8c8078e07c114909370e"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "6fb6041e417b5bf1cc5e3d9f5dc49caa99b6e8b9cc9b6eb7077b8d3c18295523",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_03/server.log",
+      "release_sha256": "3731051018aebda0c897d6e9186fbc12da6322ed74ea838bb253a11fb56dafd5"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "beafcf47f5730b06314661e122a793d16e9d5aced4dcd4bd9d7dd8c3722a4c3a",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_04/result.json",
+      "release_sha256": "f901b123c900ba74898ac1361390c5d56c95da5ae5f1f3d7e4d0e9f1f2ab8a24"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "2ed167fb50c55ca2ec2e8a2a8879b0dc86f462acd2a1b12b20e4180b08d3e326",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_04/eval.log",
+      "release_sha256": "7639e5bd683252d13bf177474deee28b1a031a8f413e4557f13b1e54d8cd2abe"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "76677994b7c61b5319c74e07099fcc697ce6dfd746c2aaa50065f8a4748e9653",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_04/server.log",
+      "release_sha256": "a3a21f12f5dc414e8c46b01ddda1a62004d2e1c8efbc71a234b2b8dd56c17fe2"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "95362b1d96f9cf7d7786ceea36589de318a9a7261a07aad639217bce32534158",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_05/result.json",
+      "release_sha256": "77ddf28d3c03f13f04243dd33a98790d14788afc4589deaf44c2c1687a6d950f"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "85a7b494754de1ba0e94fa0dd6bb895f1a15324df60eae51027886a959118c81",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_05/eval.log",
+      "release_sha256": "82f4e8a245a4fa348855e3cd0fb53f91fd178feadf91dde84763bf2bcfe119a4"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "a0e60fcb2266a7cdd7625128a055bdc36d2178412706d1b19612c35529ba230d",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_05/server.log",
+      "release_sha256": "fbe6cc7a0f8ce7dd32b841c8f60aaf49ff55358f1dd3a75746f59850688d932b"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "a56904e34487f10439ffc06676c150dfad30d989fd7ea3ffd0380c033c0aab03",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_06/result.json",
+      "release_sha256": "c7edeae4eefe6a780f8e14bea4ab45be67449028cfe8b83dce0cc9d62b2564d5"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "66665f45c574619f907619f640437a3dbca3097c013b01ed5ddd2d6d57f4fe27",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_06/eval.log",
+      "release_sha256": "d27bab24ec2324e786b3aa35cb078bf89a7eba83ff0f5605f81a4cacbd551f8b"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "617d9d9a2ca73a50bab5c1c5bf287853218ce8d9dcbac4bc712cb41584e47692",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_06/server.log",
+      "release_sha256": "d83614266af7e274fcb76474e996cbef4459394864fced60ef0a4d0be6708594"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "98bb799e822b9b907aab9b2b245797ce91b6d113238ba5a356d16595855d3a41",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_07/result.json",
+      "release_sha256": "0d0044588ffa63ef3fc2477f2bd73868fbd78f2090085cdcf654f2b15e09b872"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "5d73aa72af203f37be8c8af21427809d842f2773edf548848b0a6953d90ce168",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_07/eval.log",
+      "release_sha256": "402003e04877f3b28424235018101070b5b2ad1decd921b24608de6c204b7bc5"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "9ecc8ca9d56f0eb6e34ed48df3e4ff747fa534bf9331cf22085a49c7a8d7e80f",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_07/server.log",
+      "release_sha256": "869459b790698a834e1079b0cdf092e8c0eb395c0671d611c334d7130f2a2eaa"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "81d6b04a650b5c0763d987f9f89cc5cfacd1ee310a8a56ff62bd7dd45c5bc97d",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_08/result.json",
+      "release_sha256": "dc95af5f62ac60d9954a5dd723fbbe84164a5f960ab70ca016ae0e3dcd50e244"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "913855261e7c93d567785675e4913f6262693ded25c88435217250ffa97cca17",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_08/eval.log",
+      "release_sha256": "407afa251347120937e53af5bdd8282b704f0d5d578728da7de718bfde114034"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "1d5b33bf47e418d565d26fc1a940416f4682ae1e42ddecfac9fa34b2ac05cf6c",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_08/server.log",
+      "release_sha256": "54c2c69de0f705f525333192c04d5e6211492b724038d3359172d21e99d07c81"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "18008e703a2784ef612d7535ad9106b752c0da0b5f8b009d01dd426d159c4d44",
+      "release_path": "experiments/runs/pi05_memory_dtw/task_09/result.json",
+      "release_sha256": "890f1b57498f738d49b4330e34f65b96404561f0a2937fd03030627164393a50"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "e205ab7f3bd1b083e7d79beb4739baf3448b301c322872a73c5eb4512e901223",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_09/eval.log",
+      "release_sha256": "ef075f9df3d45a078703a4a0f23eee9001e35b3c719349dc9250ce3f00c258ad"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "2b345ca690bd7c276061ac63795da17dbf58d80bdc4f434ff8990d7481f7a603",
+      "release_path": "experiments/logs/pi05_memory_dtw/task_09/server.log",
+      "release_sha256": "c21d83b946878f1eeace11baccd9ce7d750cac0e1e145acb5d16c6e1f5e8ffe7"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "c7229c4ae5ffc7e490b8f89f5ebd2d75a9d5dc00f98a5452344f3c78be5bb314",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_00/result.json",
+      "release_sha256": "d93101448dff7800bcd8a7721689a45d7659bb084940d657055651542f2b68ba"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "fabeda940323d16d1fc536174a162bd041e2ad4c1292fb50870c07acb9d076fd",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_00/eval.log",
+      "release_sha256": "b114b7491a2b102e26443807f430018ff533645efa7622f78bfc5f5b14dc17d9"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "9fc7568ccdb89ca67e8a8fb5f175d86570cabc2c94c67a1f7a51637b187093cb",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_00/server.log",
+      "release_sha256": "f525125bf6e936eff0fe9502df05d100ad1208c2d1557e53eb97e312fdc54bc2"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "86cf644c100bd3cb26674ac86536f58d529de6bd44993d88ced0818d46d7e139",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_00/episodes.json",
+      "release_sha256": "5c0d9b7bdfdb7ecc74d3f785b8a52b4e29359236180110e42c7655467b67b223"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "f1c46ba164a7c1f80475be76289bcbbe5ff8d6fabb642fa692475adb59334545",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_01/result.json",
+      "release_sha256": "dc2df29188c28d6593a78a3ef3499bd8a1dd1a560e4b339bf876add03207e30d"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "1f2383eeab344ab387c55e2b59896073624fcaf5d2b0d881fb78730ae7a527fe",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_01/eval.log",
+      "release_sha256": "0471d14b6919b7fd6666a071fe182cdf7f40deed6647ef93171791488a1ea976"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "4ed7f75bd70eb94e803c5cf0e891856a73d55b52cc61da5a6f80993d9ab2b97b",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_01/server.log",
+      "release_sha256": "65196a843f6a69effc397b018e2a17dbc771a19c04f4f4a9837a9efbd164f965"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "b4fc80c8607540285242f22218bf7146e87e6f3f61eb946173b994dc73784154",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_01/episodes.json",
+      "release_sha256": "81ff363024a03e0800ccebc94162f2de749b8d7ada06beac73a9763263d2e47b"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "0744f56f3b38f267bc1e6dd466ac5befb1da19de2a8db34d7ff30a059f1b2505",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_02/result.json",
+      "release_sha256": "5d136568ef8fbd402402e9e0a3980533d47db1e01c6aa0ea3f92a1288b57c7fa"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "37a13231f14658026cd8d9cbeefda9398e9a16ea67460ce8b3afb8909192c320",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_02/eval.log",
+      "release_sha256": "a6e90682fba761db7c8b434877bac36f48ce64ea3fb5eab44eff4d602f3a0147"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "7004baf0b1b58acc6cac6155fd74bc3b026432b3496fd3ba726afdf00d1dfbe4",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_02/server.log",
+      "release_sha256": "0ac67dca919684b2998ed5645b612e5a5d3f0309739e39f7e41ecb8286ffd024"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "98dd7ab0cb10fb3017aa426a1bd0a9004aab97ec51dad7fde54dce9a94d29ad5",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_02/episodes.json",
+      "release_sha256": "f470631d29a48a840e09797f6a2da99c9ca79e81be6f867716ee1b7cb10ef6d6"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "4f717303018033a0212518288d226ba14f5172139b6d2f838417c21219ea9606",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_03/result.json",
+      "release_sha256": "5d5837716bfe8ce9e0ff2a1eebcb16ce99909cb5ff9466ff6130bde78aaeb083"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "f4dc0142297fa77e0d0ad23359128a744cb89bfd6f106ebefb383f7450cc3f95",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_03/eval.log",
+      "release_sha256": "2cf2edc98394d116d4f2b0986b23c92072a97f1528fd9ade4f25a5b941a9c1b6"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "0ce9b8206b78eac6c43cf30c580aa5b25e4fe62103c5d8a4668f1ba178eca684",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_03/server.log",
+      "release_sha256": "26cd7bd416c7b496724f7e95c53a037908bd5512464da1f4e1521d4f102643a6"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "ea3bc833ed60a3bf0bbea11baacec936022abae05b80c9935202778e8a47dde8",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_03/episodes.json",
+      "release_sha256": "a6dc0dd9f8046e340f925c9ef36d8be4d4edded64a9a998b48ef5c8bcdc9dc0d"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "7979148cda73b930eb43c1bd30720d32038b82dbcbceee243dee960bcc8e537b",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_04/result.json",
+      "release_sha256": "5053c0978530ec555582b3e794fe33e4c2873172633caf520a1785b2a8178f04"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "9fe9163a3fffc5b677732057d8b714eebfc55560d8b69f53cfb8e6f8cea0aa6c",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_04/eval.log",
+      "release_sha256": "fab111ae41992ef019143f8243ace5102f44e1e8d7227d7534d0843405478193"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "6e5480008aad0b83ba4a6febde541cc65521c6fb061fc14e54b70aa875497018",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_04/server.log",
+      "release_sha256": "892ed0c271e42d82ce36d2eef0653542129f8116f1d81efdf6c96cd6b9ef1eec"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "2cf526369ad9352dc4cd29b78a8a77556f1fb03744589b17cddd2965878c9243",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_04/episodes.json",
+      "release_sha256": "1e2e6d59c9978cfc42bb6e7671c18c06ec44f508bdbba29604e3b401100d59a4"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "292fadf70ddb7e8912b6b34e192fbe03cfe7b972166bff3b07ffc25186c673d4",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_05/result.json",
+      "release_sha256": "2361db99ac138d8f2ced912f036199774f3cb81dd4510a180863c65eb9c690a0"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "d9130356b9a68bbe9b97e612c664ffb711b14203a2f05170d6e31a1ce7c4a4a3",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_05/eval.log",
+      "release_sha256": "43a6a7989250669d13214811df7d0315897962f81095dfc2be7c3159e08474a7"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "d0acca4b67af68043264091d11049e423540e57d38a780bbb2e30a3713920f85",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_05/server.log",
+      "release_sha256": "55ab8b8ac951b5331bc0e57c701bfd86a660d5ec6938a94844f1672b3ea3ba4b"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "36828bf0a83e541f4cfd8ba94fec8e8110301387c4b99e997b9c0f51af26f1fc",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_05/episodes.json",
+      "release_sha256": "54bd04d595977f2844415f9960fe8c659be034ebfc661edd483707e778d8384d"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "1fefcd4d05be28b937cca5d5ac9dd029e6187dc3ec55d9ae05b8d1479a3bb498",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_06/result.json",
+      "release_sha256": "d5e949b3c7efe6458b42f31d7f1e9072f4afb3f9a0663bc4cd31301718bcf5da"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "087ae1867a4c89c7903d59285f10c03a6e5afc6a357ad5c64d863315e6cfe73e",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_06/eval.log",
+      "release_sha256": "3fc2377b30e63f80874d4953464d824e5484d8168b6c3beaffd3a184f924f0b6"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "241f6917e663c8454adee7f8981b78c8c08756835f3ae7c1ebd8a62bc261000b",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_06/server.log",
+      "release_sha256": "4314de25af1e9f40d6d70af7b44311de0c74bdad8edcae275ab86f0064d19aec"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "5dc6fc8265c99fe578979c4fa06e14737433fc64b6cb787bfe3fd37973eb9315",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_06/episodes.json",
+      "release_sha256": "95adfc720812c0f5b9b541f813191aa068f3308890cbcb66dd846eb9f500a8f3"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "8bd9e28963b391e07759f85f0dd449f789ff893868f9b3d6e0167832cf164462",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_07/result.json",
+      "release_sha256": "05a0a2eb95eaa68c2935049da0a1ed3e6577299bccf25b62e0208d0d15e9967a"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "e85355cc6ee4364fc98cda3798a83a89ac86cd6c7466144d1e4db51ee88f8285",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_07/eval.log",
+      "release_sha256": "c08eac2d35d960804fbdddeceb601632931b7fe816fbcc873bf6e75ab3a6175f"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "c453165929cdd4e077520eb87ec30984568c1c739b8b816b324ebec687a4a026",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_07/server.log",
+      "release_sha256": "9740f2e1eace3571976f68d25facff9f6492bc05bb10f6464e83ad0a50b54266"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "df7c1d6f3a2c3463df72e74681f45f292dbb69e4c610cb8c78f9b97bafb45c61",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_07/episodes.json",
+      "release_sha256": "114140057123da7aefca709bc5fd8d3910cd8ce721efb72a60eee18d8afb01f2"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "b103b119c3a41c8afaa861cf245ab56fd1634651c8d4925ef8fbc560a389082f",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_08/result.json",
+      "release_sha256": "d9ef285dab8aab1fd4f127db6d2cc1a052935dacb300045b4301943b2e77b7dc"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "566c30b94e1684be2858d264a0e44357ece5fef3145ce2eebd6e395a44436f52",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_08/eval.log",
+      "release_sha256": "e239caf51ca975e5c5dc148d87b37b70d2d0fcffcbed653384259674dc46697d"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "70f439dd1975bad4764a211b000a11b0c2e7a5bec36ba77dec7a5239510a8473",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_08/server.log",
+      "release_sha256": "13f79113c6509034aeddaa51e28ef9d7c0087d49febb9ae9d56a4f1a9f5c2200"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "7cf474233b69efddc03ab161f2c988cecc743a05621dcd50a3de188c2bd58b34",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_08/episodes.json",
+      "release_sha256": "2090b23c35cfc04f82226a0116eed4f5c230f810b03826fb213d88b9bd7d4e67"
+    },
+    {
+      "source_label": "selected saved result, runtime/private bookkeeping omitted",
+      "original_basename": "result.json",
+      "source_sha256": "d1ce215f00602a4ce55d788288347f856c1087c24d58e85c1ceb4653446da1fa",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_09/result.json",
+      "release_sha256": "e38080437e66bd95e43f60329ac784b519f373ed74bf3e059fcac2e5b3083aff"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "eval.log",
+      "source_sha256": "41847dc3c9a6e9dd111f03d7cbe8995b0237bfd2d165b23f6a88184d88a28c87",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_09/eval.log",
+      "release_sha256": "78f31bcc8d85a61697df9bf60aad9d9377d6e5178b50552962e4ad878fdb6f9f"
+    },
+    {
+      "source_label": "selected evaluation log, local paths redacted; ANSI escapes removed",
+      "original_basename": "server.log",
+      "source_sha256": "92533a716e08116f36122f97aba6ead598fe885e3fad567e9d03b5cef34a486a",
+      "release_path": "experiments/vlac/logs/pi05_memory_dtw_vlac/task_09/server.log",
+      "release_sha256": "a217778ab83315f35a116d5537a4071a76425d9d92023fc65861cde511bdc250"
+    },
+    {
+      "source_label": "selected episode metadata, trajectory paths/schema omitted",
+      "original_basename": "episodes.json",
+      "source_sha256": "feb45aa69877ed7ddcc8f5d4c4b41e62c1f03cb8c1d99b20bf4655fcdd736cae",
+      "release_path": "experiments/vlac/runs/pi05_memory_dtw_vlac/task_09/episodes.json",
+      "release_sha256": "854acf07a0add66781e11545570bc428635a699bd26c2e1522890346e667663b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "9d3516f743267c8710a82f6a1ecc4ecd91bcfdda1ddda1cb088d3babd242b016",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_00.png",
+      "release_sha256": "9d3516f743267c8710a82f6a1ecc4ecd91bcfdda1ddda1cb088d3babd242b016"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "a68c2662f90a4d80794fbd3eeb4cfbb7a01320de616a1e57c896312dbd179207",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_01.png",
+      "release_sha256": "a68c2662f90a4d80794fbd3eeb4cfbb7a01320de616a1e57c896312dbd179207"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "e1364f03e40dcdb9fcc40f924fd13e6f0c355a9335f201bc69c05d8f8ddfd171",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_02.png",
+      "release_sha256": "e1364f03e40dcdb9fcc40f924fd13e6f0c355a9335f201bc69c05d8f8ddfd171"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "ef3c0e9e5aabb65da854fb3567852e5c4e3a6e89f58ee041f5c580e833fad078",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_03.png",
+      "release_sha256": "ef3c0e9e5aabb65da854fb3567852e5c4e3a6e89f58ee041f5c580e833fad078"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "481e4e19b774ac903870fe7c20ed04e8070f8d1335f894b374e095df6f322c83",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_04.png",
+      "release_sha256": "481e4e19b774ac903870fe7c20ed04e8070f8d1335f894b374e095df6f322c83"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "37d9773da31e228dd8b33547b9cd5d525417564143791ebd66430d1a274b15f5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_05.png",
+      "release_sha256": "37d9773da31e228dd8b33547b9cd5d525417564143791ebd66430d1a274b15f5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "bacfe867c184c75af63572bd289a92c99bbd3bc8b016b91f3943dfbf921009d6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_06.png",
+      "release_sha256": "bacfe867c184c75af63572bd289a92c99bbd3bc8b016b91f3943dfbf921009d6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "eee18928fe86623b4fcb3aded2c609bfd8d2748ee452b86b41d6147ad73e1fdd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_07.png",
+      "release_sha256": "eee18928fe86623b4fcb3aded2c609bfd8d2748ee452b86b41d6147ad73e1fdd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "2bcd3e51eb19731c3ad1975abbb9dd7f3a03749bb8f55567005651f217191c20",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_08.png",
+      "release_sha256": "2bcd3e51eb19731c3ad1975abbb9dd7f3a03749bb8f55567005651f217191c20"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "a209844a659c1fb6e090909a431c2e45ad2bdba5bd3a40a96a23ceea45e72e4e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_09.png",
+      "release_sha256": "a209844a659c1fb6e090909a431c2e45ad2bdba5bd3a40a96a23ceea45e72e4e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "2d6046fe744827b5de330c5599113f2dd8769629fe718fec931a94f7c7388960",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_10.png",
+      "release_sha256": "2d6046fe744827b5de330c5599113f2dd8769629fe718fec931a94f7c7388960"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "bba329ee99b3b4f073d0fb1722756f06acae9404f008e2779eafd342fb04a741",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_11.png",
+      "release_sha256": "bba329ee99b3b4f073d0fb1722756f06acae9404f008e2779eafd342fb04a741"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "277473657f76a08f7e2a0baf67a2b5d4b416b18b3da130189272e5754f967a69",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_12.png",
+      "release_sha256": "277473657f76a08f7e2a0baf67a2b5d4b416b18b3da130189272e5754f967a69"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "a183b55bf772acadd8b73c23d02964fa0e3c731e91dc15bc94753c686ce5627d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_13.png",
+      "release_sha256": "a183b55bf772acadd8b73c23d02964fa0e3c731e91dc15bc94753c686ce5627d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "3823aff9ecc1c64fe64d74176326963327b7c84b55121ca5ba0be005c97b2c86",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_14.png",
+      "release_sha256": "3823aff9ecc1c64fe64d74176326963327b7c84b55121ca5ba0be005c97b2c86"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "a64cae896902ba25b96d6b30b800ad46b59b459f94c4a54af92ef3bf53127fa5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_15.png",
+      "release_sha256": "a64cae896902ba25b96d6b30b800ad46b59b459f94c4a54af92ef3bf53127fa5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "f3ad571d946315a0e1a7af79ed95a44421793c28519a40d0a73fdd2c9a452f14",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_16.png",
+      "release_sha256": "f3ad571d946315a0e1a7af79ed95a44421793c28519a40d0a73fdd2c9a452f14"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "21f8f9ca6a8a1f209635cac037991a94c67240c3b5769b2e1235afc9f049d03e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_17.png",
+      "release_sha256": "21f8f9ca6a8a1f209635cac037991a94c67240c3b5769b2e1235afc9f049d03e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "6adcb33b3353392d459d748ec6204715ef31ab654bb2aeb919337e66f05cbf8f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_18.png",
+      "release_sha256": "6adcb33b3353392d459d748ec6204715ef31ab654bb2aeb919337e66f05cbf8f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "abe4c26c309e8023d7d9004c93821a5016cb9722afc3e435876b906408a459c1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_19.png",
+      "release_sha256": "abe4c26c309e8023d7d9004c93821a5016cb9722afc3e435876b906408a459c1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "8401a46325d89e6cbaaf21cdcea1aaae247a1b14585a3a1ec6444dd8385d4c8b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_20.png",
+      "release_sha256": "8401a46325d89e6cbaaf21cdcea1aaae247a1b14585a3a1ec6444dd8385d4c8b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "57b8cff8eb1fefc74cef1f481ffb90d00d8954027a566226ff04f03c9a296e36",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_21.png",
+      "release_sha256": "57b8cff8eb1fefc74cef1f481ffb90d00d8954027a566226ff04f03c9a296e36"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "ae8a131c7a169501800114a5577cae60cb3060640f0cb34ec79ab514de6423a8",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_22.png",
+      "release_sha256": "ae8a131c7a169501800114a5577cae60cb3060640f0cb34ec79ab514de6423a8"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "189589c70d30bb55d26d2b1c4a4aa9ba22b955a8f3eff759ceabcfa3b07beed0",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_00/frame_23.png",
+      "release_sha256": "189589c70d30bb55d26d2b1c4a4aa9ba22b955a8f3eff759ceabcfa3b07beed0"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "8b37d983ba23537e476ca62184cc90adee45451b8327ffda1177ca059aa63712",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_00.png",
+      "release_sha256": "8b37d983ba23537e476ca62184cc90adee45451b8327ffda1177ca059aa63712"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "1c355f9776ec3735d3cef9cf33bdffd236920c6932de107afc0685c4f0664af7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_01.png",
+      "release_sha256": "1c355f9776ec3735d3cef9cf33bdffd236920c6932de107afc0685c4f0664af7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "2f644c5250a79a13ee167b46067c961606e7e185d6e23b38a0e7205814e5ecd8",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_02.png",
+      "release_sha256": "2f644c5250a79a13ee167b46067c961606e7e185d6e23b38a0e7205814e5ecd8"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "9be7309ff9243bc972f1bb01f5018f85199b5f897701ab8e2a9fac83fc5bb8a9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_03.png",
+      "release_sha256": "9be7309ff9243bc972f1bb01f5018f85199b5f897701ab8e2a9fac83fc5bb8a9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "49e4dda86a6d2cb393cd004da76ed5903de58e2d693480508fd6f8190f0c1730",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_04.png",
+      "release_sha256": "49e4dda86a6d2cb393cd004da76ed5903de58e2d693480508fd6f8190f0c1730"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "23912d84407ceb65efd03733437b1e1f4298ef24b7f4d0d378468abb155e5f02",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_05.png",
+      "release_sha256": "23912d84407ceb65efd03733437b1e1f4298ef24b7f4d0d378468abb155e5f02"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "856877f25e2103e4a1981b507e1cc2a32e4a5962d4ab866a3b2f8ddaa01fcbcc",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_06.png",
+      "release_sha256": "856877f25e2103e4a1981b507e1cc2a32e4a5962d4ab866a3b2f8ddaa01fcbcc"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "4f36ae15a772794fd2713de498157b6e3521f61130b3aaf5a080afbc8d4b388a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_07.png",
+      "release_sha256": "4f36ae15a772794fd2713de498157b6e3521f61130b3aaf5a080afbc8d4b388a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "b91fc89da5ad2d8507ba19d82f5cbe538873a1bc151ed5022f9518e8b693a002",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_08.png",
+      "release_sha256": "b91fc89da5ad2d8507ba19d82f5cbe538873a1bc151ed5022f9518e8b693a002"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "3d26653e5ba188b7e65d64570bb85bc68830a14d3653c645fd1cf1d87ff9703c",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_09.png",
+      "release_sha256": "3d26653e5ba188b7e65d64570bb85bc68830a14d3653c645fd1cf1d87ff9703c"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "1eafd672c5ca75c120eee78de4483fa0ccdb64033586113ea1fb6c538bc1584b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_10.png",
+      "release_sha256": "1eafd672c5ca75c120eee78de4483fa0ccdb64033586113ea1fb6c538bc1584b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "2a5a9fab2c9ba7bddbf92ee135b016c7a2fffab5ecd59571310ac503cd12fea3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_11.png",
+      "release_sha256": "2a5a9fab2c9ba7bddbf92ee135b016c7a2fffab5ecd59571310ac503cd12fea3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "a48e67e44bcc63f7c91f3cc42d5d65e8b9868babc2b3d2e022a7e0f8dad09613",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_12.png",
+      "release_sha256": "a48e67e44bcc63f7c91f3cc42d5d65e8b9868babc2b3d2e022a7e0f8dad09613"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "703b11af8c866965d6888661fdbac75e39e0c2596d77e491f8379931a0aa0d3a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_13.png",
+      "release_sha256": "703b11af8c866965d6888661fdbac75e39e0c2596d77e491f8379931a0aa0d3a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "644e2c1d34f7f4e75f945d101c5e2c9d3de2573c8d377095b748c3305a367947",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_14.png",
+      "release_sha256": "644e2c1d34f7f4e75f945d101c5e2c9d3de2573c8d377095b748c3305a367947"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "6a412a3035d4ba5d9d84bfa8129192718e4e85b3b92e6ce9771742e9a20daa8d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_15.png",
+      "release_sha256": "6a412a3035d4ba5d9d84bfa8129192718e4e85b3b92e6ce9771742e9a20daa8d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "bd80771e2120082f74c0b1257ca42fdaea01f853151e91f7dc4309c4dee9ea40",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_16.png",
+      "release_sha256": "bd80771e2120082f74c0b1257ca42fdaea01f853151e91f7dc4309c4dee9ea40"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "feab7921cba24d6e381c531b7ba9f73852042a33146de96202a12e0ad7781dec",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_17.png",
+      "release_sha256": "feab7921cba24d6e381c531b7ba9f73852042a33146de96202a12e0ad7781dec"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "b61c0e7d9ce49e609a7a0a45b8b0671eac307b6201029978f712b5a692465cd7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_18.png",
+      "release_sha256": "b61c0e7d9ce49e609a7a0a45b8b0671eac307b6201029978f712b5a692465cd7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "030a9d098df3efcc8d14760fd961320de409affb8ad4b1e36506f560205ee70a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_19.png",
+      "release_sha256": "030a9d098df3efcc8d14760fd961320de409affb8ad4b1e36506f560205ee70a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "3aead931a2d2bffd49e51deb1efab83fe215df00f9e1e093a926370069f5e27d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_20.png",
+      "release_sha256": "3aead931a2d2bffd49e51deb1efab83fe215df00f9e1e093a926370069f5e27d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "54eb69aeed20477bfaf6b83496a801295ba1f69d0d19117baae0c2ead0680638",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_21.png",
+      "release_sha256": "54eb69aeed20477bfaf6b83496a801295ba1f69d0d19117baae0c2ead0680638"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "43a3991824b34ed00390ccfe75ec3132dabd83dfe02c07e67b67142899d330cd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_22.png",
+      "release_sha256": "43a3991824b34ed00390ccfe75ec3132dabd83dfe02c07e67b67142899d330cd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "b641e27527e6a749bd864072457d3fa8d7b0a4e6e4c06e93567ef8cad742cd5c",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_01/frame_23.png",
+      "release_sha256": "b641e27527e6a749bd864072457d3fa8d7b0a4e6e4c06e93567ef8cad742cd5c"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "286bd2f387fd69cef1b0ded29904e961755be8633466663fe2b282f52639cdfc",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_00.png",
+      "release_sha256": "286bd2f387fd69cef1b0ded29904e961755be8633466663fe2b282f52639cdfc"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "ec39c3d5c13bcafbed01b9d8cbf00b10c4f498f311fd67641f54ac38d656b690",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_01.png",
+      "release_sha256": "ec39c3d5c13bcafbed01b9d8cbf00b10c4f498f311fd67641f54ac38d656b690"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "48628012447eed4dd4d4cc55936355fdfb491bc5c4752cdd3cc0996ff7eae71a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_02.png",
+      "release_sha256": "48628012447eed4dd4d4cc55936355fdfb491bc5c4752cdd3cc0996ff7eae71a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "8bd478aeccd96c85ee21ad107debafb5460f2ae62b8189d462e34bf86d368106",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_03.png",
+      "release_sha256": "8bd478aeccd96c85ee21ad107debafb5460f2ae62b8189d462e34bf86d368106"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "1f8ef3f5e04895994e53853dba3432b86bd644a79be8ddb8c3511e81051e20f5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_04.png",
+      "release_sha256": "1f8ef3f5e04895994e53853dba3432b86bd644a79be8ddb8c3511e81051e20f5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "0396df0253eae8881af36c891c40579a58542411025dbff45b440a165b5e7564",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_05.png",
+      "release_sha256": "0396df0253eae8881af36c891c40579a58542411025dbff45b440a165b5e7564"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "17a0e325f125969fb10a3b6538da9b634524d14407026acfe6b1237d885d6e83",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_06.png",
+      "release_sha256": "17a0e325f125969fb10a3b6538da9b634524d14407026acfe6b1237d885d6e83"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "e244f3a15d8781939e66018645b7049221bd11e67e45d0bcb54b562be79b24fc",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_07.png",
+      "release_sha256": "e244f3a15d8781939e66018645b7049221bd11e67e45d0bcb54b562be79b24fc"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "3422aa919f40565e6aa1f8453b8aebdd96e760a59f034257aa6c6a5b07de0104",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_08.png",
+      "release_sha256": "3422aa919f40565e6aa1f8453b8aebdd96e760a59f034257aa6c6a5b07de0104"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "c8f8025591372a72aad067ef091041423dd4d37c8794b1f55a3165a8c370a893",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_09.png",
+      "release_sha256": "c8f8025591372a72aad067ef091041423dd4d37c8794b1f55a3165a8c370a893"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "3d529fecc85038d56ecf6ffde83d92a38c20fa1484754924bc968b3687b09827",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_10.png",
+      "release_sha256": "3d529fecc85038d56ecf6ffde83d92a38c20fa1484754924bc968b3687b09827"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "74cfd6170bfba1abac2cca212afbe1ecbb34f26312ae46777e002fd0a687ecce",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_11.png",
+      "release_sha256": "74cfd6170bfba1abac2cca212afbe1ecbb34f26312ae46777e002fd0a687ecce"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "91ed97d5684bd1353515746d173f396f8c16ea72fa4d3cddcf2d04a4e3cd8509",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_12.png",
+      "release_sha256": "91ed97d5684bd1353515746d173f396f8c16ea72fa4d3cddcf2d04a4e3cd8509"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "965a831697d98db4908e97ae30f0556e80e214fd49a34b9a852111b4ee16e40b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_13.png",
+      "release_sha256": "965a831697d98db4908e97ae30f0556e80e214fd49a34b9a852111b4ee16e40b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "96d1bf8ad44388c63f0f00555ec9dec887a2860a65b8ce12443242dcb926d6fd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_14.png",
+      "release_sha256": "96d1bf8ad44388c63f0f00555ec9dec887a2860a65b8ce12443242dcb926d6fd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "d1ad0b8ac20a96237638e597ce4c99ba6ce609700ad43e44cad1c0db923e40bc",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_15.png",
+      "release_sha256": "d1ad0b8ac20a96237638e597ce4c99ba6ce609700ad43e44cad1c0db923e40bc"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "f3ba2cc93a00b7ca082a2f0ea2b091c54864951f931804e021944ffea5a4547c",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_16.png",
+      "release_sha256": "f3ba2cc93a00b7ca082a2f0ea2b091c54864951f931804e021944ffea5a4547c"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "259a4b6ed476be079c33bc461789c9c5219bca23eadb6b8fe2d29138ed811384",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_17.png",
+      "release_sha256": "259a4b6ed476be079c33bc461789c9c5219bca23eadb6b8fe2d29138ed811384"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "9839b75e0065896da26c3277e705cd1e1d348246efae7ab070982ce4510572ca",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_18.png",
+      "release_sha256": "9839b75e0065896da26c3277e705cd1e1d348246efae7ab070982ce4510572ca"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "86ca1ec734b90f78a32551bca4c392aaef28dec35bcd88d99aa11d53fcd888bb",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_19.png",
+      "release_sha256": "86ca1ec734b90f78a32551bca4c392aaef28dec35bcd88d99aa11d53fcd888bb"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "5373ada91383bb0413209d7eddbbf23dfbaf228e02e39bc75c8cb6f4b5a42c00",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_20.png",
+      "release_sha256": "5373ada91383bb0413209d7eddbbf23dfbaf228e02e39bc75c8cb6f4b5a42c00"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "efdc1c278f097a3796134d621e6adf7af63dbc732ef179d1545918760553673d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_21.png",
+      "release_sha256": "efdc1c278f097a3796134d621e6adf7af63dbc732ef179d1545918760553673d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "ecf26ee89e290a9ff2514a27f9fcb33757f0e1286998cd02177ce2fbd2bfaddf",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_22.png",
+      "release_sha256": "ecf26ee89e290a9ff2514a27f9fcb33757f0e1286998cd02177ce2fbd2bfaddf"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "c38a3c35d3c2273e2c509597b5dae8e6f814cb38054fe5669b300f04ae2b0f78",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_02/frame_23.png",
+      "release_sha256": "c38a3c35d3c2273e2c509597b5dae8e6f814cb38054fe5669b300f04ae2b0f78"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "11e4ad95b5dbbeb344b80678117357f9eccc11ff81a039ca305467893693679b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_00.png",
+      "release_sha256": "11e4ad95b5dbbeb344b80678117357f9eccc11ff81a039ca305467893693679b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "414163158f1cce585ff03410f865f2637da7e2fa4721889ffeddcd33d23d9531",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_01.png",
+      "release_sha256": "414163158f1cce585ff03410f865f2637da7e2fa4721889ffeddcd33d23d9531"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "6ff4e80877aa4ea09ba4f0b645bd7bfe71cca2c1c0c6f23c68a4be99041c70e7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_02.png",
+      "release_sha256": "6ff4e80877aa4ea09ba4f0b645bd7bfe71cca2c1c0c6f23c68a4be99041c70e7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "eda661a1246e0af47fc6151205c6c060f32f091120e4ed02359b7025a20093d3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_03.png",
+      "release_sha256": "eda661a1246e0af47fc6151205c6c060f32f091120e4ed02359b7025a20093d3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "06467f8b70cb64292e0a57ea06848478cc600991c4adb62ed1d3bd6df9fb4ac9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_04.png",
+      "release_sha256": "06467f8b70cb64292e0a57ea06848478cc600991c4adb62ed1d3bd6df9fb4ac9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "cf8879dc64f32ebc66e77f3dbe6622021129d7e62c6aa9ba89d42670166120fd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_05.png",
+      "release_sha256": "cf8879dc64f32ebc66e77f3dbe6622021129d7e62c6aa9ba89d42670166120fd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "c800debf5e86cdf26d855c7c2367d05035ec94468c623f91ae49701c60dbb299",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_06.png",
+      "release_sha256": "c800debf5e86cdf26d855c7c2367d05035ec94468c623f91ae49701c60dbb299"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "b6057e1b0724a1dedd28f680b10dd7dc141ef8b482b5550db71d1bdb3c2d5606",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_07.png",
+      "release_sha256": "b6057e1b0724a1dedd28f680b10dd7dc141ef8b482b5550db71d1bdb3c2d5606"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "50645dc1ac9e4c74180bfd7abae82ff202466c6fd049fcdd392b233260c63ec3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_08.png",
+      "release_sha256": "50645dc1ac9e4c74180bfd7abae82ff202466c6fd049fcdd392b233260c63ec3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "79373ef672001f06cd8935ffb64f8bec111240a0fd41d136484c40f7769cfe00",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_09.png",
+      "release_sha256": "79373ef672001f06cd8935ffb64f8bec111240a0fd41d136484c40f7769cfe00"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "ae2e6facc11c6a476d35079eef0224ce220b0f36b6e6526d36d71b235e7657f2",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_10.png",
+      "release_sha256": "ae2e6facc11c6a476d35079eef0224ce220b0f36b6e6526d36d71b235e7657f2"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "6c744e21862093971f2bffa5691010d18d10bc314eafd0e5856754063addf442",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_11.png",
+      "release_sha256": "6c744e21862093971f2bffa5691010d18d10bc314eafd0e5856754063addf442"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "223a320e1c5f3ec34cb30eb60747729fc8431873b0a07158373ac5ab80c8eecc",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_12.png",
+      "release_sha256": "223a320e1c5f3ec34cb30eb60747729fc8431873b0a07158373ac5ab80c8eecc"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "01b7b55374d66b2eab462f8051c18e639c9178bd711177dbd720b5b4553e2e87",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_13.png",
+      "release_sha256": "01b7b55374d66b2eab462f8051c18e639c9178bd711177dbd720b5b4553e2e87"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "64b1ac804675e879f1b91cf76f107d23fcf19bd2594bb028618f4aaea07d7087",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_14.png",
+      "release_sha256": "64b1ac804675e879f1b91cf76f107d23fcf19bd2594bb028618f4aaea07d7087"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "fbfffd3e276cda28537444418d4d00f7a57d326177642ba7fea3d6b9997fe0fd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_15.png",
+      "release_sha256": "fbfffd3e276cda28537444418d4d00f7a57d326177642ba7fea3d6b9997fe0fd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "c2e2e47a24b6475b8c159dfba8439626ae751962f210fce7e3ff10cea05e63d5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_16.png",
+      "release_sha256": "c2e2e47a24b6475b8c159dfba8439626ae751962f210fce7e3ff10cea05e63d5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "6150956da113afb4bea70667fd45355b73e59b93157ba3fecc1c64e1bde7d8a7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_17.png",
+      "release_sha256": "6150956da113afb4bea70667fd45355b73e59b93157ba3fecc1c64e1bde7d8a7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "d0105c4e8e4714ae0e0d3a8b233eb0953fc1d16b60f1eee2ff4dc2ffcc0ef2f9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_18.png",
+      "release_sha256": "d0105c4e8e4714ae0e0d3a8b233eb0953fc1d16b60f1eee2ff4dc2ffcc0ef2f9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "6b4554cefbb21a5ad2d10eab7f2b401a08b831447dc068604d2e07f72681fb79",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_19.png",
+      "release_sha256": "6b4554cefbb21a5ad2d10eab7f2b401a08b831447dc068604d2e07f72681fb79"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "0799768543bad0dd4f914e3dcc3b22dd3408aed5618f958a61c22906966f8a51",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_20.png",
+      "release_sha256": "0799768543bad0dd4f914e3dcc3b22dd3408aed5618f958a61c22906966f8a51"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "22fdd427551d7fa7ca1e86d4d2e2331f6889e72fefb92ae9a26f4912a362a4e7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_21.png",
+      "release_sha256": "22fdd427551d7fa7ca1e86d4d2e2331f6889e72fefb92ae9a26f4912a362a4e7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "3dd9ac6ff5ed28747346f9deccc36a82652abe568af502de557d443d8c62105f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_22.png",
+      "release_sha256": "3dd9ac6ff5ed28747346f9deccc36a82652abe568af502de557d443d8c62105f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "fbfd82880d828854b621d878ba2db81148139d30f2da40f4f77f00112fe957b2",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_03/frame_23.png",
+      "release_sha256": "fbfd82880d828854b621d878ba2db81148139d30f2da40f4f77f00112fe957b2"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "e69e3408088660ab36be2769943b834b1a6fa535a6bea803211ecb0892684b9f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_00.png",
+      "release_sha256": "e69e3408088660ab36be2769943b834b1a6fa535a6bea803211ecb0892684b9f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "8e14ca6b845ca66d3fc26a03aa5139fd9406188d5292319e4c9c26d534194af6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_01.png",
+      "release_sha256": "8e14ca6b845ca66d3fc26a03aa5139fd9406188d5292319e4c9c26d534194af6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "78877fb16c674f0a9abb20e1a1b99dbed5264a91f708dd0c753ebe9ddf3408f3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_02.png",
+      "release_sha256": "78877fb16c674f0a9abb20e1a1b99dbed5264a91f708dd0c753ebe9ddf3408f3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "bdb32138e901745f9dc306242421835f292cace131905e0b27eac8623fe389c4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_03.png",
+      "release_sha256": "bdb32138e901745f9dc306242421835f292cace131905e0b27eac8623fe389c4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "c32bfc090233fb7762fd07f49e3f71020e580266f446b941de6cc9ab968912f2",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_04.png",
+      "release_sha256": "c32bfc090233fb7762fd07f49e3f71020e580266f446b941de6cc9ab968912f2"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "c53ffc047bf79054e4cd121a43287122a8516aba10e7b27ada024484fb5e4c52",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_05.png",
+      "release_sha256": "c53ffc047bf79054e4cd121a43287122a8516aba10e7b27ada024484fb5e4c52"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "0ef19f628941035fc6510fb3cf8f03fe57a648c448ccddd5a8f1288e4fd507f3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_06.png",
+      "release_sha256": "0ef19f628941035fc6510fb3cf8f03fe57a648c448ccddd5a8f1288e4fd507f3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "5d4f16d8905a0feb2ad9b10562036a6095741da1cdb157c9c0bf5223356f964a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_07.png",
+      "release_sha256": "5d4f16d8905a0feb2ad9b10562036a6095741da1cdb157c9c0bf5223356f964a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "278052fd57d8512a7813781a1cd1884ff48830092d9e92a113ee041566df66a1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_08.png",
+      "release_sha256": "278052fd57d8512a7813781a1cd1884ff48830092d9e92a113ee041566df66a1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "ba273aa2d1aa3f6627447c7603688bd28648ce6a563f1f878296a67beddc8f9a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_09.png",
+      "release_sha256": "ba273aa2d1aa3f6627447c7603688bd28648ce6a563f1f878296a67beddc8f9a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "339fae63be9ae7c2bc8e6e3894291789454b6684e82854e8668e1d947f3ebde9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_10.png",
+      "release_sha256": "339fae63be9ae7c2bc8e6e3894291789454b6684e82854e8668e1d947f3ebde9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "93f5631c8c9f757bfcb59b386a295fb631b12f22074aeb8bb7cae1db5f799d28",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_11.png",
+      "release_sha256": "93f5631c8c9f757bfcb59b386a295fb631b12f22074aeb8bb7cae1db5f799d28"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "fb2d47725ce036e4e6b10fbf487702d4b160ec42a961fc900b759ea47276b93a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_12.png",
+      "release_sha256": "fb2d47725ce036e4e6b10fbf487702d4b160ec42a961fc900b759ea47276b93a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "acfe1037e8b140fdd8092fb67874f3676179a591c366cf017f8c0785c068c523",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_13.png",
+      "release_sha256": "acfe1037e8b140fdd8092fb67874f3676179a591c366cf017f8c0785c068c523"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "8fc5fe3e0403db4848b53693cdb4f139788c24e91d9e0f9239cdc704c70522fa",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_14.png",
+      "release_sha256": "8fc5fe3e0403db4848b53693cdb4f139788c24e91d9e0f9239cdc704c70522fa"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "af405bee580d6b820a9afb82a16b3e6b5157b3dc2548a797d82367e3bd3259cf",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_15.png",
+      "release_sha256": "af405bee580d6b820a9afb82a16b3e6b5157b3dc2548a797d82367e3bd3259cf"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "794dc673a74a5e139b9031a6af55366368127a1011ec8bebb14ccba803619d8b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_16.png",
+      "release_sha256": "794dc673a74a5e139b9031a6af55366368127a1011ec8bebb14ccba803619d8b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "acdb8d61207ea53357ee8e4b182315d0e2b49590581ca3ff51a2129f1e0460a2",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_17.png",
+      "release_sha256": "acdb8d61207ea53357ee8e4b182315d0e2b49590581ca3ff51a2129f1e0460a2"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "e4b49e6b3135f14742c331a631a10a5b54823ee299200ddd1cc4caf05f898554",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_18.png",
+      "release_sha256": "e4b49e6b3135f14742c331a631a10a5b54823ee299200ddd1cc4caf05f898554"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "7059cce3504a9647670a9a3a36027915c4b0a4d6b77bd8993daa2d502f337d03",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_19.png",
+      "release_sha256": "7059cce3504a9647670a9a3a36027915c4b0a4d6b77bd8993daa2d502f337d03"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "87e56603f0c1bbb99c3ed42c8f1fff63086dccd9f74623be1c1bc3b103982c37",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_20.png",
+      "release_sha256": "87e56603f0c1bbb99c3ed42c8f1fff63086dccd9f74623be1c1bc3b103982c37"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "e03e3e5d3649de7efb2f1fb60e08074f519acbfdc053cb892eb48c4a187a8e8f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_21.png",
+      "release_sha256": "e03e3e5d3649de7efb2f1fb60e08074f519acbfdc053cb892eb48c4a187a8e8f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "638c6b0ba4f200bf289b43639f2556c4978816ffc3dd1f6342bc74364152e684",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_22.png",
+      "release_sha256": "638c6b0ba4f200bf289b43639f2556c4978816ffc3dd1f6342bc74364152e684"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "7e0f4e3b113e75b6a415638c8964e8aaf885729803dba94280e7d12b263ecb7a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_04/frame_23.png",
+      "release_sha256": "7e0f4e3b113e75b6a415638c8964e8aaf885729803dba94280e7d12b263ecb7a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "861093ba355b44230a8d07a2ba9c95406512e5247a6754b54c106d839782acfd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_00.png",
+      "release_sha256": "861093ba355b44230a8d07a2ba9c95406512e5247a6754b54c106d839782acfd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "2ba1aac31a5030f623c834de55ffffa486e83346ea0a43eb7adbda2460d5c9a1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_01.png",
+      "release_sha256": "2ba1aac31a5030f623c834de55ffffa486e83346ea0a43eb7adbda2460d5c9a1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "cd546e6b7748a3e37931b88dc517adb58d809eda5d9cc0bc1fa07531a6349783",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_02.png",
+      "release_sha256": "cd546e6b7748a3e37931b88dc517adb58d809eda5d9cc0bc1fa07531a6349783"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "ae832d37a1f56b00cdf39108ed75afc38a4d4293cc1806ef128337318522192f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_03.png",
+      "release_sha256": "ae832d37a1f56b00cdf39108ed75afc38a4d4293cc1806ef128337318522192f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "7f88eafb93abe40bcd1ad5e8bf0f7526564d370dcb52b3e237819f2e6054ab2d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_04.png",
+      "release_sha256": "7f88eafb93abe40bcd1ad5e8bf0f7526564d370dcb52b3e237819f2e6054ab2d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "8a789536d1af418b3331fb0a5c3d1b2d69c52a1bbbd9fd0cae7f8f191ad0953a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_05.png",
+      "release_sha256": "8a789536d1af418b3331fb0a5c3d1b2d69c52a1bbbd9fd0cae7f8f191ad0953a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "40a2edcba1f04da95c6a21c43ae755b23e0d438975122bcab55eeb36e87257c3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_06.png",
+      "release_sha256": "40a2edcba1f04da95c6a21c43ae755b23e0d438975122bcab55eeb36e87257c3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "9f0e63bced116e3fa076f4892981526cbfd59e8b9f31d50c5dd177e67e0e5259",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_07.png",
+      "release_sha256": "9f0e63bced116e3fa076f4892981526cbfd59e8b9f31d50c5dd177e67e0e5259"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "e2ca39f6259f763a78f992bf66505189c1ad8b7a6278fed89c2ab949fc1e9de0",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_08.png",
+      "release_sha256": "e2ca39f6259f763a78f992bf66505189c1ad8b7a6278fed89c2ab949fc1e9de0"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "eab22305102c16588d4827cf90fe5f8a1114df448090725d725cbe26f5b765ec",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_09.png",
+      "release_sha256": "eab22305102c16588d4827cf90fe5f8a1114df448090725d725cbe26f5b765ec"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "701a91381d94cd96a0a7797758b375e7050628ee05293f405de1b08e358f7e88",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_10.png",
+      "release_sha256": "701a91381d94cd96a0a7797758b375e7050628ee05293f405de1b08e358f7e88"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "55ce9c03b0fe9f40e25a284c5e40964d7a1ebece0fa72b0b252c68447bd2226e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_11.png",
+      "release_sha256": "55ce9c03b0fe9f40e25a284c5e40964d7a1ebece0fa72b0b252c68447bd2226e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "3e81d481bf9b3bc3113b2f6aa91490451878409e678e87466cd2320115f2f707",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_12.png",
+      "release_sha256": "3e81d481bf9b3bc3113b2f6aa91490451878409e678e87466cd2320115f2f707"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "7902c587890d55e5d3f1df5fa4dd93bba376b633e33ee02ec5018e3e55d6d012",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_13.png",
+      "release_sha256": "7902c587890d55e5d3f1df5fa4dd93bba376b633e33ee02ec5018e3e55d6d012"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "e80061bea6890169683e29fca144b4432e898ce3cdd9d998776407b8a9e2c56d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_14.png",
+      "release_sha256": "e80061bea6890169683e29fca144b4432e898ce3cdd9d998776407b8a9e2c56d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "0182abd76614385e5bc82c0ca1e5f940dae7bb94babc6e63ddf7664120751d89",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_15.png",
+      "release_sha256": "0182abd76614385e5bc82c0ca1e5f940dae7bb94babc6e63ddf7664120751d89"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "f6c0ce949a3cb1450dc29af439cdca91045994e9cf0c07213e3a0b2f48ee54a8",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_16.png",
+      "release_sha256": "f6c0ce949a3cb1450dc29af439cdca91045994e9cf0c07213e3a0b2f48ee54a8"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "f3be5db2c33c886da02d676d0881dcf9503ff926ea142327cdc874256ce1a8f2",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_17.png",
+      "release_sha256": "f3be5db2c33c886da02d676d0881dcf9503ff926ea142327cdc874256ce1a8f2"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "fef7bb1bbfa818674d9c1b58ebe38fea1e25ae4beb0016356120cc07adc531c4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_18.png",
+      "release_sha256": "fef7bb1bbfa818674d9c1b58ebe38fea1e25ae4beb0016356120cc07adc531c4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "1366548fedf5cf69f7d37ccf941b5858b6af4ef3a4b4e48890f688f5eeb5674b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_19.png",
+      "release_sha256": "1366548fedf5cf69f7d37ccf941b5858b6af4ef3a4b4e48890f688f5eeb5674b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "537dd243949b9b305b00b18dd1122cdc67acc9d16f508201b888b7e9cbedd861",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_20.png",
+      "release_sha256": "537dd243949b9b305b00b18dd1122cdc67acc9d16f508201b888b7e9cbedd861"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "8b607f4fa23831e8f2fb59e137e98d7d289c248b59b6f1126fde73aef474084d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_21.png",
+      "release_sha256": "8b607f4fa23831e8f2fb59e137e98d7d289c248b59b6f1126fde73aef474084d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "c6b92cc507d81e8817e4378a9edc217bfedd1f2334bfa7d43fad406334dc3e18",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_22.png",
+      "release_sha256": "c6b92cc507d81e8817e4378a9edc217bfedd1f2334bfa7d43fad406334dc3e18"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "a5b8713caaee25c4eefbd457c44c2b4de8ac8e9b025c2999473c06fc3bac8d53",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_05/frame_23.png",
+      "release_sha256": "a5b8713caaee25c4eefbd457c44c2b4de8ac8e9b025c2999473c06fc3bac8d53"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "ddeaf1add48751f904ceb12ebd8ed4e072aded349b54cd53939d3da67a3c651b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_00.png",
+      "release_sha256": "ddeaf1add48751f904ceb12ebd8ed4e072aded349b54cd53939d3da67a3c651b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "e538eab0de3b57bfb5685ddb2701b40bf34532eef926a9cbff3a9c15351925d7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_01.png",
+      "release_sha256": "e538eab0de3b57bfb5685ddb2701b40bf34532eef926a9cbff3a9c15351925d7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "c05ac01e830b5af009f9bcdc6bc7dc80b29ef37d9411113c6b888cfc1555604e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_02.png",
+      "release_sha256": "c05ac01e830b5af009f9bcdc6bc7dc80b29ef37d9411113c6b888cfc1555604e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "770e0d6dd3262795eb77b72f24ca11f7103271e7bf678907119b762e90d931c6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_03.png",
+      "release_sha256": "770e0d6dd3262795eb77b72f24ca11f7103271e7bf678907119b762e90d931c6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "6f57420368c17a4811946a9a8a30227c4f0ef90a12200efebb136db4da7e37cb",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_04.png",
+      "release_sha256": "6f57420368c17a4811946a9a8a30227c4f0ef90a12200efebb136db4da7e37cb"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "5acb6967adf81a7424735b1bc03c0039436ca0602790eaa68c23ea0bca632a8f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_05.png",
+      "release_sha256": "5acb6967adf81a7424735b1bc03c0039436ca0602790eaa68c23ea0bca632a8f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "7ed2129272c67cb8f20717b00ecc5d8edee94eec72811f1d3a9696df5eef913e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_06.png",
+      "release_sha256": "7ed2129272c67cb8f20717b00ecc5d8edee94eec72811f1d3a9696df5eef913e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "0939b8eb31dde9fe7194f39fad2147c1687c1218a15aa7b8749f1ffb73928a0a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_07.png",
+      "release_sha256": "0939b8eb31dde9fe7194f39fad2147c1687c1218a15aa7b8749f1ffb73928a0a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "99894b027e5b9b5b237a18ce68449b4363c9256fda81919a1d44f3115e11bf31",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_08.png",
+      "release_sha256": "99894b027e5b9b5b237a18ce68449b4363c9256fda81919a1d44f3115e11bf31"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "3a8fa46a4e7825815cdd8cf8afc9a60f6e92a15e60023a0580d1a1fe9ec4156c",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_09.png",
+      "release_sha256": "3a8fa46a4e7825815cdd8cf8afc9a60f6e92a15e60023a0580d1a1fe9ec4156c"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "c62845776fca17ce58863bc4be8a006bb9ff10af213e757c1bd95f0cce02d1ac",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_10.png",
+      "release_sha256": "c62845776fca17ce58863bc4be8a006bb9ff10af213e757c1bd95f0cce02d1ac"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "9dba8c80d9c1091085c40645cd22c5fb561764b59b4c1e2222f384cd3d084dae",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_11.png",
+      "release_sha256": "9dba8c80d9c1091085c40645cd22c5fb561764b59b4c1e2222f384cd3d084dae"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "b9e7270d08e119be6357f9eb6115f2ffa7814ef296c958833e63e694593756e3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_12.png",
+      "release_sha256": "b9e7270d08e119be6357f9eb6115f2ffa7814ef296c958833e63e694593756e3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "0984fc6a5f73f702a2b33532750a55646a263f0ab6ade589f6b7ccd922f2c630",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_13.png",
+      "release_sha256": "0984fc6a5f73f702a2b33532750a55646a263f0ab6ade589f6b7ccd922f2c630"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "05e552ef05de2965ff5cf795ff824850ab51912b3e02cbf85cc3f08f243507b0",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_14.png",
+      "release_sha256": "05e552ef05de2965ff5cf795ff824850ab51912b3e02cbf85cc3f08f243507b0"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "3d886a44f2f253f2158bc6634c98986f8dc7e81d8f0ece3c7b619f4ff14d0aee",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_15.png",
+      "release_sha256": "3d886a44f2f253f2158bc6634c98986f8dc7e81d8f0ece3c7b619f4ff14d0aee"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "5a32a36248e533bc10b6c81902f4d953e3a170ff3c638b1a16bd8d27f4a87309",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_16.png",
+      "release_sha256": "5a32a36248e533bc10b6c81902f4d953e3a170ff3c638b1a16bd8d27f4a87309"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "13d19a3086839d3d4fc9f40744d1dc751492899177f94925430b1f7030b8f4b8",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_17.png",
+      "release_sha256": "13d19a3086839d3d4fc9f40744d1dc751492899177f94925430b1f7030b8f4b8"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "4cc9e044c02189fe04ee7d1e72dd1e41912aefd546fec3c9d118119bf989561d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_18.png",
+      "release_sha256": "4cc9e044c02189fe04ee7d1e72dd1e41912aefd546fec3c9d118119bf989561d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "e2d86e75ec61dc325ff96aef19aaeb9de6c7e501162e26bb7867b0d8f63a0bd4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_19.png",
+      "release_sha256": "e2d86e75ec61dc325ff96aef19aaeb9de6c7e501162e26bb7867b0d8f63a0bd4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "e4af18145001f220d7648d35a600c800c22f20ec5b70898a56a158487287e276",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_20.png",
+      "release_sha256": "e4af18145001f220d7648d35a600c800c22f20ec5b70898a56a158487287e276"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "10af57a41187568800014694c4ba4bfcaf525f76c4bc3773ff31b1314a3be1b6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_21.png",
+      "release_sha256": "10af57a41187568800014694c4ba4bfcaf525f76c4bc3773ff31b1314a3be1b6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "c3d0793ae77fcbdad97284a057d89626e4471d55294b5b7bb39c74df3f509442",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_22.png",
+      "release_sha256": "c3d0793ae77fcbdad97284a057d89626e4471d55294b5b7bb39c74df3f509442"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "ccdbb6caff8d347a3752bf3ba4cfb429a85a0574448f867898085523502d30ee",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_06/frame_23.png",
+      "release_sha256": "ccdbb6caff8d347a3752bf3ba4cfb429a85a0574448f867898085523502d30ee"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "026846624c5d8adb01633825a3f6e164bf22c602e2f4624897b972151224f1b4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_00.png",
+      "release_sha256": "026846624c5d8adb01633825a3f6e164bf22c602e2f4624897b972151224f1b4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "3337f4eb0190b6b3751bd07a8def28fccf9f1c748ee6eae9be090d64231b89aa",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_01.png",
+      "release_sha256": "3337f4eb0190b6b3751bd07a8def28fccf9f1c748ee6eae9be090d64231b89aa"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "bd717989dc97b0fa734a273b3ddc21e08383b4991d53cd897defa735952fc8d3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_02.png",
+      "release_sha256": "bd717989dc97b0fa734a273b3ddc21e08383b4991d53cd897defa735952fc8d3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "c60e4e26afd2c981a4554a0b337947e0c08bcbd858b1c56ee1b87229ff3f87ca",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_03.png",
+      "release_sha256": "c60e4e26afd2c981a4554a0b337947e0c08bcbd858b1c56ee1b87229ff3f87ca"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "402eff67a490ef2ab3fcc3a23a7d0df422ef0dde59da10ef3c4d4cc4dd6a128b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_04.png",
+      "release_sha256": "402eff67a490ef2ab3fcc3a23a7d0df422ef0dde59da10ef3c4d4cc4dd6a128b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "f2e2b1331ba88050c4627684e40949c8353c0dafa7ae23f4048414a2699bf89d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_05.png",
+      "release_sha256": "f2e2b1331ba88050c4627684e40949c8353c0dafa7ae23f4048414a2699bf89d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "22de19f939f63359a4ad34e08f4a06fa2cd58bce15f7fb7ce67ab1b2079dc523",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_06.png",
+      "release_sha256": "22de19f939f63359a4ad34e08f4a06fa2cd58bce15f7fb7ce67ab1b2079dc523"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "2cbea7312b3c907fc83286c0a7a3f7748ec0587b79f0b05d828294d07c8b46b3",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_07.png",
+      "release_sha256": "2cbea7312b3c907fc83286c0a7a3f7748ec0587b79f0b05d828294d07c8b46b3"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "03aebb824e7f58c78da3ffb8cc5099c7521410b14babf35433dd91eda691fe42",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_08.png",
+      "release_sha256": "03aebb824e7f58c78da3ffb8cc5099c7521410b14babf35433dd91eda691fe42"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "b712033d69624851c0f7f247ed75f2db5657263e2f255ac9bb50f8d4c6e8ffb1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_09.png",
+      "release_sha256": "b712033d69624851c0f7f247ed75f2db5657263e2f255ac9bb50f8d4c6e8ffb1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "16cf30cb65ac172e0d0f0d2bcc934aad831cded18d498f699c7aa2b6fb464b8d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_10.png",
+      "release_sha256": "16cf30cb65ac172e0d0f0d2bcc934aad831cded18d498f699c7aa2b6fb464b8d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "129392d4ccdc4c357a1c97c4645f13575a85434361b38418cf561311bf5562fa",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_11.png",
+      "release_sha256": "129392d4ccdc4c357a1c97c4645f13575a85434361b38418cf561311bf5562fa"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "850dcdbd1be6a33771bf04e31bc2d60bd94a2c51ea3e9460ef80f90f41e7dcc6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_12.png",
+      "release_sha256": "850dcdbd1be6a33771bf04e31bc2d60bd94a2c51ea3e9460ef80f90f41e7dcc6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "c6571599b8780074400d40b822a345f1b3037b976597ff2a425b3bf619914b3a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_13.png",
+      "release_sha256": "c6571599b8780074400d40b822a345f1b3037b976597ff2a425b3bf619914b3a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "e68e6d10ced5ceaf66581eeb192280f774459b6f5c16410dfd219c7a53486f80",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_14.png",
+      "release_sha256": "e68e6d10ced5ceaf66581eeb192280f774459b6f5c16410dfd219c7a53486f80"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "c9f87e342dcb08de8a7d9d30f7aae2d8838f3d12c9e4600eb5d058a3237f59c0",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_15.png",
+      "release_sha256": "c9f87e342dcb08de8a7d9d30f7aae2d8838f3d12c9e4600eb5d058a3237f59c0"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "3b632d2454a35dbd927d53da9eb690669d023d6f0cfe9d63ffd2dbe49b2603cd",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_16.png",
+      "release_sha256": "3b632d2454a35dbd927d53da9eb690669d023d6f0cfe9d63ffd2dbe49b2603cd"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "7cbeb264544ee87259876355d4d81973b406d231d9867fde31e40f42fa3a4e5c",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_17.png",
+      "release_sha256": "7cbeb264544ee87259876355d4d81973b406d231d9867fde31e40f42fa3a4e5c"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "4cd76999c3cbe8b2efeffd6c2318cd005a135610f011967949257483955ac263",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_18.png",
+      "release_sha256": "4cd76999c3cbe8b2efeffd6c2318cd005a135610f011967949257483955ac263"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "fc71fe68e20c5902364e07523e90fe6cde54fe656b2b56fa3da507fa9ef08312",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_19.png",
+      "release_sha256": "fc71fe68e20c5902364e07523e90fe6cde54fe656b2b56fa3da507fa9ef08312"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "63bf5c0a4ff85767b1560f7a84017737b8fd9ac1e9912dbefc70e37c247c0cc7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_20.png",
+      "release_sha256": "63bf5c0a4ff85767b1560f7a84017737b8fd9ac1e9912dbefc70e37c247c0cc7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "2d2bbd57b6757a3d191b65a43c7fa7a112c1d27e41d90d4683112ec731f76199",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_21.png",
+      "release_sha256": "2d2bbd57b6757a3d191b65a43c7fa7a112c1d27e41d90d4683112ec731f76199"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "e4e35417efa0722fb06227c5a4bac1ffc9e1846f57ba25e384e28c64317f7bf4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_22.png",
+      "release_sha256": "e4e35417efa0722fb06227c5a4bac1ffc9e1846f57ba25e384e28c64317f7bf4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "d8cd2b353a8d189a07ddf4e8a169d7b0d3b8b7e88f03dac0c41d8fe0b05aa0aa",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_07/frame_23.png",
+      "release_sha256": "d8cd2b353a8d189a07ddf4e8a169d7b0d3b8b7e88f03dac0c41d8fe0b05aa0aa"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "5ff916a7d53b8eafb64c6a79ad1e683341b6682680c71904620455958197f1b7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_00.png",
+      "release_sha256": "5ff916a7d53b8eafb64c6a79ad1e683341b6682680c71904620455958197f1b7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "cdff35410ec7d334ba4e26e9a90901aede7ffb3aa294797c34687514773673e8",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_01.png",
+      "release_sha256": "cdff35410ec7d334ba4e26e9a90901aede7ffb3aa294797c34687514773673e8"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "546c4480db8f8b44c036a7f1afec2849fa884f3d29a634a78c64f290ea2c9615",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_02.png",
+      "release_sha256": "546c4480db8f8b44c036a7f1afec2849fa884f3d29a634a78c64f290ea2c9615"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "6196caaa7439fdddfd0c85410e0835ca47e169aff5378d5f89034e7d6c344ebe",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_03.png",
+      "release_sha256": "6196caaa7439fdddfd0c85410e0835ca47e169aff5378d5f89034e7d6c344ebe"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "7b9e150e24af16c1419689028fa830fde9773d18ebf852f86a78620376dd1962",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_04.png",
+      "release_sha256": "7b9e150e24af16c1419689028fa830fde9773d18ebf852f86a78620376dd1962"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "a46bd9981fc70f655a6bb6eea089d45ac3718674c9da94bd8e6c2e19be25ab67",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_05.png",
+      "release_sha256": "a46bd9981fc70f655a6bb6eea089d45ac3718674c9da94bd8e6c2e19be25ab67"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "e5ac615e2006a0d8d2b947c6819b917f103b3fa26b422e7ad87d51bdfc20c01b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_06.png",
+      "release_sha256": "e5ac615e2006a0d8d2b947c6819b917f103b3fa26b422e7ad87d51bdfc20c01b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "fc89d88fb31bfb5859069e4da5ff61ebcbdd24c3bb0dc15204b1a755bd670a6e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_07.png",
+      "release_sha256": "fc89d88fb31bfb5859069e4da5ff61ebcbdd24c3bb0dc15204b1a755bd670a6e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "2e11fb841d70b2cfa486159c9de66e38c4bc10415fe51400b6752944646a1fdf",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_08.png",
+      "release_sha256": "2e11fb841d70b2cfa486159c9de66e38c4bc10415fe51400b6752944646a1fdf"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "f2f7580ffb812e7d0d8c71c40ea491013b9361ac6e559cee267b88168a75a07b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_09.png",
+      "release_sha256": "f2f7580ffb812e7d0d8c71c40ea491013b9361ac6e559cee267b88168a75a07b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "05879bf687cf457dbcc650e7fd962281170b937460915bb4dc55eec18e8cda0b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_10.png",
+      "release_sha256": "05879bf687cf457dbcc650e7fd962281170b937460915bb4dc55eec18e8cda0b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "2166e174014a7e61e046db188cc62c253326775b1fe0d60457ec041fa2b2241b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_11.png",
+      "release_sha256": "2166e174014a7e61e046db188cc62c253326775b1fe0d60457ec041fa2b2241b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "a7fe270f68256a94b6fedf94c735be9a6bd1c66678894564f0c9fe8da2bbbde6",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_12.png",
+      "release_sha256": "a7fe270f68256a94b6fedf94c735be9a6bd1c66678894564f0c9fe8da2bbbde6"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "58157316728dc15161d2602aec45cc7547db29d64980f21d6ba22f15f5c0d0de",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_13.png",
+      "release_sha256": "58157316728dc15161d2602aec45cc7547db29d64980f21d6ba22f15f5c0d0de"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "1b282582d6129cf2fbd4b1385251d160819a7cc7ec6986c0531ef45b418b47fe",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_14.png",
+      "release_sha256": "1b282582d6129cf2fbd4b1385251d160819a7cc7ec6986c0531ef45b418b47fe"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "423680d490a320515f34840b4ac325da670c96a81bca09f02d31a719f6468d65",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_15.png",
+      "release_sha256": "423680d490a320515f34840b4ac325da670c96a81bca09f02d31a719f6468d65"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "4eaba3ab85b69ec5f725e02f5edf3e81de2435c59431cc29776312c32c06337a",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_16.png",
+      "release_sha256": "4eaba3ab85b69ec5f725e02f5edf3e81de2435c59431cc29776312c32c06337a"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "afbba19baa81f7dcc55bd472f1a872a157ac419a71f56bb52a360bb4bf099472",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_17.png",
+      "release_sha256": "afbba19baa81f7dcc55bd472f1a872a157ac419a71f56bb52a360bb4bf099472"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "db8c43d6be33abb1131e9474c3b4e8b87b2b91d8df8cab516df52addcf22893e",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_18.png",
+      "release_sha256": "db8c43d6be33abb1131e9474c3b4e8b87b2b91d8df8cab516df52addcf22893e"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "5ab15c7633d08ca0d364a76d2d240747054043cd7b5ad52703cdcfc758fece59",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_19.png",
+      "release_sha256": "5ab15c7633d08ca0d364a76d2d240747054043cd7b5ad52703cdcfc758fece59"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "7cac43beb574b81f51aa20aa625fae339bf8ca706f56d780d420515a7f5e2b5f",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_20.png",
+      "release_sha256": "7cac43beb574b81f51aa20aa625fae339bf8ca706f56d780d420515a7f5e2b5f"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "ae1f4d60aa5d46781902cd552bb042658fcc39fe76c1bc10324b250129d0871b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_21.png",
+      "release_sha256": "ae1f4d60aa5d46781902cd552bb042658fcc39fe76c1bc10324b250129d0871b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "b45551abebf75a38f667bf5e7acd0ffddc5f09889ac6d812d2f8329f94456c84",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_22.png",
+      "release_sha256": "b45551abebf75a38f667bf5e7acd0ffddc5f09889ac6d812d2f8329f94456c84"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "c42ca329b52165aee028e932374d8d057274758f5745c419ec1f3fd02ff72306",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_08/frame_23.png",
+      "release_sha256": "c42ca329b52165aee028e932374d8d057274758f5745c419ec1f3fd02ff72306"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_00.png",
+      "source_sha256": "32f1db95a0510daa1c245b0e7af70996344f680103c35a821bd9512cd97977b1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_00.png",
+      "release_sha256": "32f1db95a0510daa1c245b0e7af70996344f680103c35a821bd9512cd97977b1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_01.png",
+      "source_sha256": "77fe97b23bed7d0c14dabeaa9211b880c0a58b7c9584656d87a899c99e707ee5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_01.png",
+      "release_sha256": "77fe97b23bed7d0c14dabeaa9211b880c0a58b7c9584656d87a899c99e707ee5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_02.png",
+      "source_sha256": "116d471c459bd33785f6d5d816801c70b5c454f23c853cb562f9448ed270aaa9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_02.png",
+      "release_sha256": "116d471c459bd33785f6d5d816801c70b5c454f23c853cb562f9448ed270aaa9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_03.png",
+      "source_sha256": "3624094df67de59f047f2f5753eb9d6b8f3b03f3a163e42995b2a5ae97c6a137",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_03.png",
+      "release_sha256": "3624094df67de59f047f2f5753eb9d6b8f3b03f3a163e42995b2a5ae97c6a137"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_04.png",
+      "source_sha256": "fcf67f72af6671aa5108b4ea0a580b4990e0f6abd655a393c899568e0d0bc3c1",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_04.png",
+      "release_sha256": "fcf67f72af6671aa5108b4ea0a580b4990e0f6abd655a393c899568e0d0bc3c1"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_05.png",
+      "source_sha256": "92226ed592df0f5ff58a0d8dae5c7111c789f76314d8c837a1d19de1e8b4c4a9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_05.png",
+      "release_sha256": "92226ed592df0f5ff58a0d8dae5c7111c789f76314d8c837a1d19de1e8b4c4a9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_06.png",
+      "source_sha256": "20bcb0d502ec0003e247f12a92c5d4144ab0978c207708aa7e6a7e80dc9f1071",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_06.png",
+      "release_sha256": "20bcb0d502ec0003e247f12a92c5d4144ab0978c207708aa7e6a7e80dc9f1071"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_07.png",
+      "source_sha256": "2eddd2e3490d1c47eec25f020685e869d24e1f507b8e83c3dcbb93bfaeccc8f7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_07.png",
+      "release_sha256": "2eddd2e3490d1c47eec25f020685e869d24e1f507b8e83c3dcbb93bfaeccc8f7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_08.png",
+      "source_sha256": "0fa0c1bd2bc4a72d8b364537c54d346842ce404fd047350f6d61cc442ce0f4e5",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_08.png",
+      "release_sha256": "0fa0c1bd2bc4a72d8b364537c54d346842ce404fd047350f6d61cc442ce0f4e5"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_09.png",
+      "source_sha256": "ccdc0c1d96418bcad40066c86e85d0a8cdb4630d5e0b00ef7a32f50295aa458d",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_09.png",
+      "release_sha256": "ccdc0c1d96418bcad40066c86e85d0a8cdb4630d5e0b00ef7a32f50295aa458d"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_10.png",
+      "source_sha256": "d3cd943ad138de1ef5d0d49d9f6fbad0671e7a82409507721faf9931c716ed09",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_10.png",
+      "release_sha256": "d3cd943ad138de1ef5d0d49d9f6fbad0671e7a82409507721faf9931c716ed09"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_11.png",
+      "source_sha256": "61b55ad794a91f50c9727dec36b7954cf049c99bc5acd8cf5afdf077d2bc9622",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_11.png",
+      "release_sha256": "61b55ad794a91f50c9727dec36b7954cf049c99bc5acd8cf5afdf077d2bc9622"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_12.png",
+      "source_sha256": "ffa0dbdd82ed728a19b6e27ecfbd2eedc7beb8a2649de89fe052e9188fb5847b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_12.png",
+      "release_sha256": "ffa0dbdd82ed728a19b6e27ecfbd2eedc7beb8a2649de89fe052e9188fb5847b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_13.png",
+      "source_sha256": "34f10c2a7477216265a121b55ebb2dee26969db746b071a8a3addb13a4186b88",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_13.png",
+      "release_sha256": "34f10c2a7477216265a121b55ebb2dee26969db746b071a8a3addb13a4186b88"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_14.png",
+      "source_sha256": "595cb0d2c91b0a3b6812065c1aa9730f0f2c64496e7274fa988b1d6d110cd976",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_14.png",
+      "release_sha256": "595cb0d2c91b0a3b6812065c1aa9730f0f2c64496e7274fa988b1d6d110cd976"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_15.png",
+      "source_sha256": "43627d82fdfa5b25c7122efbf69d6e618e68809fedf6b51c70984eb4a49a3982",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_15.png",
+      "release_sha256": "43627d82fdfa5b25c7122efbf69d6e618e68809fedf6b51c70984eb4a49a3982"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_16.png",
+      "source_sha256": "7a12c5d2ba92ffd280d46280f242880aab43e151224fbabf029fd7bdb23f8fc4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_16.png",
+      "release_sha256": "7a12c5d2ba92ffd280d46280f242880aab43e151224fbabf029fd7bdb23f8fc4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_17.png",
+      "source_sha256": "742ef434946d6a075c2227980f7e2068fe40ddc589d781f88e1ff83988fcb7b7",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_17.png",
+      "release_sha256": "742ef434946d6a075c2227980f7e2068fe40ddc589d781f88e1ff83988fcb7b7"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_18.png",
+      "source_sha256": "8194b46d337150038a22bc52d8c8d9281e57ffde489861be3c66937e35c685e4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_18.png",
+      "release_sha256": "8194b46d337150038a22bc52d8c8d9281e57ffde489861be3c66937e35c685e4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_19.png",
+      "source_sha256": "ef827d0de782ab68ae11949b81f22daa3bad847530e40e6f73d9ea70214f86b0",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_19.png",
+      "release_sha256": "ef827d0de782ab68ae11949b81f22daa3bad847530e40e6f73d9ea70214f86b0"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_20.png",
+      "source_sha256": "6d5a87d032e85bcbaaabbac8efe52c794fc94c790d63fd03efef42975a6d81c4",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_20.png",
+      "release_sha256": "6d5a87d032e85bcbaaabbac8efe52c794fc94c790d63fd03efef42975a6d81c4"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_21.png",
+      "source_sha256": "133da2e095007442ec5d2ea5a11b73da45ba88330dbc58b7636436da990e994b",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_21.png",
+      "release_sha256": "133da2e095007442ec5d2ea5a11b73da45ba88330dbc58b7636436da990e994b"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_22.png",
+      "source_sha256": "7e99c805314da7eead59b275e8c0e359f19d870b28ac545569847e8f2b7ff7c9",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_22.png",
+      "release_sha256": "7e99c805314da7eead59b275e8c0e359f19d870b28ac545569847e8f2b7ff7c9"
+    },
+    {
+      "source_label": "independent LIBERO training reference RGB",
+      "original_basename": "frame_23.png",
+      "source_sha256": "0d90b681972a00d3b558f1036c6cd4313ab20b39a66f6f2e959cc8728b664356",
+      "release_path": "experiments/vlac/references/libero10_reference24/task_09/frame_23.png",
+      "release_sha256": "0d90b681972a00d3b558f1036c6cd4313ab20b39a66f6f2e959cc8728b664356"
+    }
+  ]
+}

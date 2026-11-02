@@ -1,0 +1,15 @@
+# Separate Python 3.10 environment; install Torch/CUDA before this file.
+# Observed local versions; the model weights are external.
+numpy==1.26.4
+transformers==4.51.3
+ms-swift==3.3.0
+peft==0.15.2
+timm==1.0.30
+accelerate==1.15.0
+einops==0.8.2
+sentencepiece==0.2.0
+opencv-python==4.11.0.86
+pillow==12.3.0
+fastapi==0.143.0
+uvicorn==0.54.0
+loguru

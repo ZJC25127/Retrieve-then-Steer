@@ -1,0 +1,34 @@
+{
+  "method_files_byte_identical": true,
+  "unchanged_functions": {
+    "stable_server": [
+      "infer"
+    ],
+    "libero_client": [
+      "selected_benchmarks",
+      "render_init",
+      "env_init",
+      "reset",
+      "set_state",
+      "infer",
+      "step",
+      "write_video"
+    ],
+    "vlac_policy": [
+      "infer"
+    ],
+    "vlac_client": [
+      "preprocess",
+      "get_score",
+      "deterministic_environment",
+      "policy_state",
+      "check"
+    ],
+    "vlac_server": [
+      "image",
+      "task_key",
+      "score"
+    ]
+  },
+  "adaptation_scope": "Relative paths, launcher and log/run directories, optional media I/O only. Official upstream runtime sources remain unmodified."
+}

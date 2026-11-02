@@ -1,0 +1,2502 @@
+[
+  {
+    "task": 0,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 18,
+    "env_success": false
+  },
+  {
+    "task": 0,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 0,
+    "state": 49,
+    "env_success": false
+  },
+  {
+    "task": 1,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 1,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 2,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 2,
+    "env_success": false
+  },
+  {
+    "task": 3,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 33,
+    "env_success": false
+  },
+  {
+    "task": 3,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 3,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 32,
+    "env_success": false
+  },
+  {
+    "task": 4,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 34,
+    "env_success": false
+  },
+  {
+    "task": 4,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 40,
+    "env_success": false
+  },
+  {
+    "task": 4,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 44,
+    "env_success": false
+  },
+  {
+    "task": 4,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 4,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 36,
+    "env_success": false
+  },
+  {
+    "task": 5,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 5,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 26,
+    "env_success": false
+  },
+  {
+    "task": 6,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 30,
+    "env_success": false
+  },
+  {
+    "task": 6,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 33,
+    "env_success": false
+  },
+  {
+    "task": 6,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 38,
+    "env_success": false
+  },
+  {
+    "task": 6,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 6,
+    "state": 49,
+    "env_success": false
+  },
+  {
+    "task": 7,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 7,
+    "state": 49,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 0,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 1,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 2,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 4,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 10,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 12,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 13,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 14,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 20,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 21,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 23,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 24,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 25,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 26,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 27,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 30,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 31,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 38,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 39,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 41,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 42,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 8,
+    "state": 48,
+    "env_success": false
+  },
+  {
+    "task": 8,
+    "state": 49,
+    "env_success": false
+  },
+  {
+    "task": 9,
+    "state": 0,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 1,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 2,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 3,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 4,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 5,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 6,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 7,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 8,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 9,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 10,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 11,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 12,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 13,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 14,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 15,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 16,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 17,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 18,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 19,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 20,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 21,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 22,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 23,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 24,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 25,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 26,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 27,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 28,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 29,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 30,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 31,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 32,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 33,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 34,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 35,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 36,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 37,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 38,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 39,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 40,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 41,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 42,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 43,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 44,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 45,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 46,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 47,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 48,
+    "env_success": true
+  },
+  {
+    "task": 9,
+    "state": 49,
+    "env_success": true
+  }
+]

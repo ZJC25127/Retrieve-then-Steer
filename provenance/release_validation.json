@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-02",
+  "layout": "original OpenPI/experiments/vlac hierarchy",
+  "cpu_tests": {
+    "windows": 10,
+    "linux": 10,
+    "all_passed": true
+  },
+  "recorded_runs": 3,
+  "recorded_episodes": 1500,
+  "reference_images": 240,
+  "official_runtime_files_verified": 1251,
+  "official_source_bytes_unchanged": true,
+  "scientific_memory_and_progress_bytes_unchanged": true,
+  "interface_help_checks": [
+    {
+      "label": "policy_help",
+      "returncode": 0
+    },
+    {
+      "label": "vlac_policy_help",
+      "returncode": 0
+    },
+    {
+      "label": "vlac_client_help",
+      "returncode": 0
+    },
+    {
+      "label": "critic_help",
+      "returncode": 0
+    }
+  ],
+  "validation_scope": "CPU tests, saved outcome/log consistency, full SHA readback, dry-run and real-environment CLI help only. No checkpoints loaded, no environment reruns.",
+  "source_delivery": "Official OpenPI, LIBERO and VLAC runtime sources directly included with source attribution; no separate clone workflow."
+}
