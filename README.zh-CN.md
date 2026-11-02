@@ -1,42 +1,49 @@
-# Retrieve-then-Steer
+<div align="center">
 
-**面向生成式VLA测试时适应的在线成功记忆方法**
+<h1>Retrieve-then-Steer</h1>
+<h3>Online Success Memory for Test-Time Adaptation of Generative VLAs</h3>
 
-Retrieve-then-Steer通过在线积累的成功经验，在推理阶段引导冻结的VLA策略。
-检索得到的动作块经过DTW一致性过滤和加权聚合，形成动作先验，用于初始化
-flow-matching采样过程。可选的VLAC critic根据预测任务进度控制记忆入库。
+<p><strong>NeurIPS 2026</strong></p>
+<p>Jianchao Zhao, Huoren Yang, Yusong Hu, Yuyang Gao, Qiguan Ou,<br>Cong Wan, SongLin Dong, Zhiheng Ma, Yihong Gong</p>
+<p>Xi'an Jiaotong University · One Robotics · Shenzhen University of Advanced Technology</p>
 
-本仓库提供π0.5在LIBERO-10上的基线、memory＋DTW及VLAC评测代码。
+<a href="https://arxiv.org/abs/2605.10094"><img src="https://img.shields.io/badge/arXiv-2605.10094-b31b1b.svg" alt="Paper on arXiv"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="Apache 2.0 license"></a>
 
-[English](README.md) · [安装与评测](experiments/README.md) · [VLAC配置](experiments/vlac/README.md)
+</div>
 
-## 目录结构
+[论文](https://arxiv.org/abs/2605.10094) · [方法概述](#方法概述) · [环境安装](#环境安装) · [VLAC](experiments/vlac/README.md) · [引用](#引用) · [English](README.md)
 
-```text
-retrieve_then_steer_release/
-├── openpi/                         OpenPI源码
-│   └── third_party/libero/          LIBERO源码及仿真资产
-├── experiments/
-│   ├── scripts/                    策略适配、memory、DTW及评测入口
-│   ├── resources/                  评测协议和memory参数
-│   ├── runs/                       基线与memory＋DTW结果
-│   ├── logs/                       评测及策略日志
-│   ├── results_summary.json
-│   ├── per_task.csv
-│   └── vlac/
-│       ├── VLAC/                   VLAC源码
-│       ├── scripts/                评分服务、进度累计及入库逻辑
-│       ├── configs/                各任务critic参数
-│       ├── references/             每任务24张参考图
-│       ├── runs/                   memory＋DTW＋VLAC结果
-│       └── logs/                   评测及策略日志
-├── tools/                          源码校验工具
-├── tests/                          CPU测试
-├── provenance/                     版本及文件校验记录
-└── licenses/
-```
+## 方法概述
+
+**参数冻结的 VLA，能否通过复用自身的成功经验变得更可靠？**
+
+机器人经常在相同或缓慢变化的环境中重复执行任务。一次成功的执行，能够为当前
+场景下有效的行为提供依据。Retrieve-then-Steer 将这些经验积累为在线成功记忆，
+用于引导后续动作生成，同时保持 VLA 的模型参数冻结。
+
+<p align="center">
+  <img src="assets/method.jpg" width="100%" alt="Retrieve-then-Steer 方法框架：在线成功记忆、DTW 一致性检索，以及对冻结生成式 VLA 的置信度自适应引导。">
+</p>
+
+方法包含三个相互连接的部分：
+
+1. **构建在线成功记忆。** 通过进度 critic 识别可复用的成功观测–动作前缀，
+   在部署过程中将其写入记忆。
+2. **检索一致的动作先验。** 利用冻结 VLA 的视觉特征检索相关动作块，
+   通过 DTW 过滤不一致轨迹，再根据相似度加权聚合为精英动作先验。
+3. **引导动作生成。** 用动作先验初始化 flow-matching 采样器的中间状态，
+   根据检索置信度调整引导强度，由冻结 VLA 结合当前观测与指令继续生成动作。
+
+适应过程通过记忆与推理完成，无需更新策略参数。本仓库提供 π0.5 在 LIBERO-10
+上的实现，包括基线、memory＋DTW，以及使用 VLAC 进行记忆筛选的评测入口。
 
 ## 环境安装
+
+```bash
+git clone https://github.com/ZJC25127/Retrieve-then-Steer.git
+cd Retrieve-then-Steer
+```
 
 运行环境为Linux、NVIDIA GPU、CUDA和EGL。策略推理、LIBERO仿真和VLAC推理
 分别使用独立的Python环境：
@@ -92,7 +99,34 @@ openpi/.venv/bin/python experiments/vlac/scripts/run_vlac_reference_libero.py \
 在线累积。新结果保存至对应的 `runs/<method>_<timestamp>/`，日志保存至
 `logs/<method>_<timestamp>/`。视频和无损轨迹默认不保存。
 
-## 源码来源
+## 目录结构
+
+```text
+Retrieve-then-Steer/
+├── openpi/                         OpenPI源码
+│   └── third_party/libero/          LIBERO源码及仿真资产
+├── experiments/
+│   ├── scripts/                    策略适配、memory、DTW及评测入口
+│   ├── resources/                  评测协议和memory参数
+│   ├── runs/                       基线与memory＋DTW结果
+│   ├── logs/                       评测及策略日志
+│   ├── results_summary.json
+│   ├── per_task.csv
+│   └── vlac/
+│       ├── VLAC/                   VLAC源码
+│       ├── scripts/                评分服务、进度累计及入库逻辑
+│       ├── configs/                各任务critic参数
+│       ├── references/             每任务24张参考图
+│       ├── runs/                   memory＋DTW＋VLAC结果
+│       └── logs/                   评测及策略日志
+├── assets/                         论文插图
+├── tools/                          源码校验工具
+├── tests/                          CPU测试
+├── provenance/                     版本及文件校验记录
+└── licenses/
+```
+
+## 致谢与源码来源
 
 以下源码已包含在仓库中，并保留对应许可证：
 
@@ -104,6 +138,20 @@ openpi/.venv/bin/python experiments/vlac/scripts/run_vlac_reference_libero.py \
 
 检索和采样适配代码位于 `experiments/scripts/`；critic与进度入库适配代码
 位于 `experiments/vlac/scripts/`。
+
+## 引用
+
+如在研究中使用 Retrieve-then-Steer，请引用：
+
+```bibtex
+@inproceedings{zhao2026retrievethensteer,
+  title     = {Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs},
+  author    = {Zhao, Jianchao and Yang, Huoren and Hu, Yusong and Gao, Yuyang and Ou, Qiguan and Wan, Cong and Dong, SongLin and Ma, Zhiheng and Gong, Yihong},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2605.10094}
+}
+```
 
 ## 许可证
 
